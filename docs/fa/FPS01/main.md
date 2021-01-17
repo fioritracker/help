@@ -11,10 +11,10 @@ Has two parts:
 
 ## Available extensions
 Optional extension that resolves raw start records to a friendly application names.
-[Fiori Tracker Core](core/SPS02/main.md) with [FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage/FPS01/main.md)
+[Fiori Tracker Core](../../core/SPS02/main.md) with [FT Apps Relation: Apps' Usage](../../ft-apps-rel-appsusage/FPS01/main.md)
 
 ## Other applications that might use the product
-[FT Apps Relation: Apps' Usage](ft-apps-rel-appsusage/FPS01/main.md) 
+[FT Apps Relation: Apps' Usage](../../ft-apps-rel-appsusage/FPS01/main.md) 
 
 ## Installation
 [Details](fa/FPS01/inst.md)

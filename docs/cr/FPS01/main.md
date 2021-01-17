@@ -18,7 +18,7 @@ None.
 
 ## Dependencies
 Requires:  
-[As-is](asis/FPS01/main.md)
+[As-is](../../asis/FPS01/main.md)
 
 ## Technical information
 [Details](cr/FPS01/tech.md)

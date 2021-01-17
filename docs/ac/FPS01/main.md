@@ -21,7 +21,7 @@ Optional extension that enables view of the catalogs in relation to friendly app
 
 ### Dependencies
 Requires:  
-[As-is](asis/FPS01/main.md)
+[As-is](../../asis/FPS01/main.md)
 
 ### Technical information
 [Details](ac/FPS01/tech.md)
