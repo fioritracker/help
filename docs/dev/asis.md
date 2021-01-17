@@ -2,10 +2,10 @@
 
 Base addon for retrieving data from Managed system and passing it to Central system.
 
-### General technical info
+## General technical info
 [Details](/tech/asis.md)
 
-### Architecture
+## Architecture
 [Details](dev/arch/asis.pptx)
 
 `ZFT_SYSTEMS` - Main table for systems

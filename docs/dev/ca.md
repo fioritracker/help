@@ -1,6 +1,6 @@
 # Catalog Apps Report - Development details
 
-### Test cases
+## Test cases
 
 Catalog name: 
 

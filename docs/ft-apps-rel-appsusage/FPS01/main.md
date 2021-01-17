@@ -2,21 +2,21 @@
 
 Apps' Usage relation shows the list of users that started the application. The list is available for each of your Managed systems.
 
-### Location
+## Location
 Central system
 
-### Available extensions
+## Available extensions
 None.
 
-### Dependencies
+## Dependencies
 Requires: 
 [Fiori Apps' Usage Report](fa.md)
 
-### Other applications that might use the product
+## Other applications that might use the product
 [Fiori Tracker Core](ft-core.md)
 
-### Installation 
+## Installation 
 [Details](/inst/ft-apps-rel-appsusage.md)
 
-### Technical information
+## Technical information
 [Details](/tech/ft-apps-rel-appsusage.md)

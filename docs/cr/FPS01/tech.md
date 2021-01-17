@@ -6,7 +6,7 @@ Transport Package: ZNYPE**CR**
 
 oData Service Name: ZNYPECR_SRV
 
-#### App: "FT Catalog Report"
+### App: "FT Catalog Report"
 
 Launch Path: https://`host:port`/sap/bc/ui5_ui5/sap/zftcr
 

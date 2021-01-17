@@ -2,23 +2,23 @@
 
 This relation shows a list of currently configured applications in the selected catalog. It enables you to view the list in each of your Managed systems.
 
-### Location
+## Location
 Central system
 
-### Available extensions
+## Available extensions
 None.
 
-### Dependencies
+## Dependencies
 Requires:  
 [Catalog Apps Report](ca.md)
 
-### Other applications that might use the product
+## Other applications that might use the product
 [Fiori Tracker Core](ft-core.md) on Central system
 
-### Installation 
+## Installation 
 [Details](/inst/ft-cats-rel-apps-asis.md)
 
-### Technical information
+## Technical information
 [Details](/tech/ft-cats-rel-apps-asis.md)
 
 

@@ -6,7 +6,7 @@ Transport Package: ZNYPE**FA**CEN**REP**
 
 oData Service Name: ZNYPEFACENREP_SRV
 
-#### App: "Fiori Apps' Usage Report"
+### App: "Fiori Apps' Usage Report"
 
 Launch Path: https://`host:port`/sap/bc/ui5_ui5/sap/zftappusagerep
 

@@ -4,23 +4,23 @@ The Catalog Report lets you list the catalogs from all your systems. You can exp
 
 ![](res/cr.png)
 
-### Installation 
+## Installation 
 [Details](cr/FPS01/inst.md)
 
-### Location
+## Location
 Located on Central system
 
-### Available extensions
+## Available extensions
 None.
 
-### Other applications that might use the product
+## Other applications that might use the product
 None.
 
-### Dependencies
+## Dependencies
 Requires:  
 [As-is](asis/FPS01/main.md)
 
-### Technical information
+## Technical information
 [Details](cr/FPS01/tech.md)
 
 
