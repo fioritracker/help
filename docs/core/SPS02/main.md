@@ -14,11 +14,15 @@ Fiori Tracker Core contains the following applications:
 1. [FT applications (with core relation: To-be catalogs)](../../core/SPS02/apps.md) - for keeping "To-be" records of applications in scope
 2. [FT catalogs (with core relation: To-be apps)](../../core/SPS02/cats.md) - for keeping "To-be" records of catalogs in scope
 
-## Installation 
-[Details](inst.md)
+## [Installation](inst.md)
 
 ## Location
+{% if  prod.core.cen == 'X' %}
 Central system
+{% endif %}
+{% if  prod.core.man == 'X' %}
+Managed system
+{% endif %}
 
 ## Available extensions
 Optional relations that can be installed on Fiori Tracker core
@@ -35,5 +39,4 @@ Optional relations that can be installed on Fiori Tracker core
 ## Dependencies
 Independent - does not need any other product to be installed
 
-## Technical information
-[Details](../../core/SPS02/tech.md) 
+## [Technical information](tech.md) 

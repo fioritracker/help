@@ -15,8 +15,6 @@ Requires:
 ## Other applications that might use the product
 [Fiori Tracker Core](../../core/SPS02/main.md)
 
-## Installation 
-[Details](inst.md)
+## [Installation](inst.md)
 
-## Technical information
-[Details](tech.md)
+## [Technical information](tech.md)

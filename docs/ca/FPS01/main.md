@@ -4,11 +4,11 @@ Application provides the list of SAP Fiori apps assigned to a catalog in the cho
 
 ![](res/ca.png)
 
-## Installation 
-[Details](inst.md)
+## [Installation](inst.md)
 
 ## Location
 Has two parts:
+
 1. Located on Central system
 2. Located on Managed system
 
@@ -23,7 +23,6 @@ Optional extension for Catalogs app that enables view of the apps (friendly name
 Requires:  
 [As-is](../../asis/FPS01/main.md)
 
-## Technical information
-[Details](tech.md)
+## [Technical information](tech.md)
 
 

@@ -8,8 +8,7 @@ Has two parts:
 1. "As-is" Main API located on Central system
 2. "As-is" Connector located on Managed system
 
-## Installation 
-[Details](inst.md)
+## [Installation](inst.md)
 
 ## Available extensions
 None
@@ -23,5 +22,4 @@ None
 ## Dependencies
 Independent - does not need any other product to be installed
 
-## Technical information
-[Details](tech.md)
+## [Technical information](tech.md)

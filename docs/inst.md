@@ -14,16 +14,16 @@ Below table shows Latest releases with system location.
 
 |Product|Central|Managed|Latest release|
 |--|--|--|--|
-|${prod/ftCore/name}|${prod/ftCore/cen}|${prod/ftCore/man}|${prod/ftCore/latestrel}|
-|${prod/asisCen/name}|${prod/asisCen/cen}|${prod/asisCen/man}|${prod/asisCen/latestrel}|
-|${prod/asisMan/name}|${prod/asisMan/cen}|${prod/asisMan/man}|${prod/asisMan/latestrel}|
-|${prod/cr/name}|${prod/cr/cen}|${prod/cr/man}|${prod/cr/latestrel}|
-|${prod/ac/name}|${prod/ac/cen}|${prod/ac/man}|${prod/ac/latestrel}|
-|${prod/ca/name}|${prod/ca/cen}|${prod/ca/man}|${prod/ca/latestrel}|
-|${prod/fa/name}|${prod/fa/cen}|${prod/fa/man}|${prod/fa/latestrel}|
-|${prod/ftCatsRelAppsAsis/name}|${prod/ftCatsRelAppsAsis/cen}|${prod/ftCatsRelAppsAsis/man}|${prod/ftCatsRelAppsAsis/latestrel}|
-|${prod/ftAppsRelCatsAsis/name}|${prod/ftAppsRelCatsAsis/cen}|${prod/ftAppsRelCatsAsis/man}|${prod/ftAppsRelCatsAsis/latestrel}|
-|${prod/ftAppsRelAppsUsage/name}|${prod/ftAppsRelAppsUsage/cen}|${prod/ftAppsRelAppsUsage/man}|${prod/ftAppsRelAppsUsage/latestrel}|
+|{{ prod.core.name }}|{{ prod.core.cen }}|{{ prod.core.man }}|{{ prod.core.latestrel }}|
+|{{ prod.asisCen.name }}|{{ prod.asisCen.cen }}|{{ prod.asisCen.man }}|{{ prod.asisCen.latestrel }}|
+|{{ prod.asisMan.name }}|{{ prod.asisMan.cen }}|{{ prod.asisMan.man }}|{{ prod.asisMan.latestrel }}|
+|{{ prod.cr.name }}|{{ prod.cr.cen }}|{{ prod.cr.man }}|{{ prod.cr.latestrel }}|
+|{{ prod.ac.name }}|{{ prod.ac.cen }}|{{ prod.ac.man }}|{{ prod.ac.latestrel }}|
+|{{ prod.ca.name }}|{{ prod.ca.cen }}|{{ prod.ca.man }}|{{ prod.ca.latestrel }}|
+|{{ prod.fa.name }}|{{ prod.fa.cen }}|{{ prod.fa.man }}|{{ prod.fa.latestrel }}|
+|{{ prod.ftCatsRelAppsAsis.name }}|{{ prod.ftCatsRelAppsAsis.cen }}|{{ prod.ftCatsRelAppsAsis.man }}|{{ prod.ftCatsRelAppsAsis.latestrel }}|
+|{{ prod.ftAppsRelCatsAsis.name }}|{{ prod.ftAppsRelCatsAsis.cen }}|{{ prod.ftAppsRelCatsAsis.man }}|{{ prod.ftAppsRelCatsAsis.latestrel }}|
+|{{ prod.ftAppsRelAppsUsage.name }}|{{ prod.ftAppsRelAppsUsage.cen }}|{{ prod.ftAppsRelAppsUsage.man }}|{{ prod.ftAppsRelAppsUsage.latestrel }}|
 
 
 ## Minimal requirements

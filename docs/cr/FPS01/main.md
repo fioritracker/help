@@ -4,8 +4,7 @@ The Catalog Report lets you list the catalogs from all your systems. You can exp
 
 ![](res/cr.png)
 
-## Installation 
-[Details](inst.md)
+## [Installation](inst.md)
 
 ## Location
 Located on Central system
@@ -20,7 +19,6 @@ None.
 Requires:  
 [As-is](../../asis/FPS01/main.md)
 
-## Technical information
-[Details](tech.md)
+## [Technical information](tech.md)
 
 

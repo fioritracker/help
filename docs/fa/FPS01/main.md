@@ -16,11 +16,9 @@ Optional extension that resolves raw start records to a friendly application nam
 ## Other applications that might use the product
 [FT Apps Relation: Apps' Usage](../../ft-apps-rel-appsusage/FPS01/main.md) 
 
-## Installation
-[Details](inst.md)
+## [Installation](inst.md)
 
 ## Dependencies
 Independent - does not need any other product to be installed
 
-## Technical information
-[Details](tech.md)
+## [Technical information](tech.md)
