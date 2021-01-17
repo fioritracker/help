@@ -10,13 +10,13 @@ None.
 
 ## Dependencies
 Requires: 
-[Fiori Apps' Usage Report](fa.md)
+[Fiori Apps' Usage Report](../../fa/FPS01/main.md)
 
 ## Other applications that might use the product
-[Fiori Tracker Core](ft-core.md)
+[Fiori Tracker Core](../../core/SPS02/main.md)
 
 ## Installation 
-[Details](/inst/ft-apps-rel-appsusage.md)
+[Details](inst.md)
 
 ## Technical information
-[Details](/tech/ft-apps-rel-appsusage.md)
+[Details](tech.md)

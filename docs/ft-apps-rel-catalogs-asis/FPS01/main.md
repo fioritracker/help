@@ -10,13 +10,13 @@ None.
 
 ## Dependencies
 Requires:  
-[App Catalogs Report](ac.md)
+[App Catalogs Report](../../ac/FPS01/main.md)
 
 ## Other applications that might use the product
-[Fiori Tracker Core](ft-core.md) on Central system
+[Fiori Tracker Core](../../core/SPS02/main.md) on Central system
 
 ## Installation 
-[Details](/inst/ft-apps-rel-catalogs-asis.md)
+[Details](inst.md)
 
 ## Technical information
-[Details](/tech/ft-apps-rel-catalogs-asis.md)
+[Details](tech.md)

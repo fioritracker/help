@@ -4,6 +4,7 @@ API installed in Central accompanied by Connector installed on Managed systems. 
 
 ## Location
 Has two parts:
+
 1. "As-is" Main API located on Central system
 2. "As-is" Connector located on Managed system
 
@@ -14,6 +15,7 @@ Has two parts:
 None
 
 ## Dependents
+
 1. [Catalog Report](../../cr/FPS01/main.md) - List of all SAP Fiori catalogs available in the chosen system
 2. [Catalog Apps Report](../../ca/FPS01/main.md) - List of SAP Fiori apps assigned to a catalog in the chosen system
 3. [App Catalogs Report](../../ac/FPS01/main.md) - List of SAP Fiori catalogs assigned to an app in the chosen system

@@ -10,15 +10,15 @@ None.
 
 ## Dependencies
 Requires:  
-[Catalog Apps Report](ca.md)
+[Catalog Apps Report](../../ca/FPS01/main.md)
 
 ## Other applications that might use the product
-[Fiori Tracker Core](ft-core.md) on Central system
+[Fiori Tracker Core](../../core/SPS02/main.md) on Central system
 
 ## Installation 
-[Details](/inst/ft-cats-rel-apps-asis.md)
+[Details](inst.md)
 
 ## Technical information
-[Details](/tech/ft-cats-rel-apps-asis.md)
+[Details](tech.md)
 
 
