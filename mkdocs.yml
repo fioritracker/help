@@ -17,6 +17,8 @@ theme:
   name: 'material'
   favicon: 'assets/images/favicon.ico'
   logo: 'assets/images/logo.png'
+extra_css:
+  - stylesheets/extra.css  
 plugins:
   - macros
   - search
