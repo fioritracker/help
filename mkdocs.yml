@@ -26,6 +26,11 @@ plugins:
   - macros
   - search
 extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/fiori-tracker/
+    - icon: fontawesome/brands/twitter
+      link: http://twitter.com/fioritracker
   prod:  
     core:
       name: 'Fiori Tracker Core'
