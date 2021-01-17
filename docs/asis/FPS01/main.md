@@ -8,7 +8,7 @@ Has two parts:
 2. "As-is" Connector located on Managed system
 
 ## Installation 
-[Details](asis/FPS01/inst.md)
+[Details](inst.md)
 
 ## Available extensions
 None
@@ -22,4 +22,4 @@ None
 Independent - does not need any other product to be installed
 
 ## Technical information
-[Details](asis/FPS01/tech.md)
+[Details](tech.md)
