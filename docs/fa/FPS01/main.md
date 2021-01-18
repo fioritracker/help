@@ -2,7 +2,7 @@
 
 Report that shows applications' usage by users statistics. The statistics are available for each Managed system separately.
 
-![](res/fa.png)
+[![](res/fa.png)](res/fa.png)
 
 ## Location
 Has two parts:
