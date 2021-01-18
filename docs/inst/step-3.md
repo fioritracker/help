@@ -42,4 +42,4 @@ If the entry is present then move to sub-step 3 (Add system alias to ICF node), 
 
 3.4 Click on **ICF node** button and from drop down chose **Activate**
 
-[![(res/maint-service-icf.png) ]](res/maint-service-icf.png) 
+[![](res/maint-service-icf.png)](res/maint-service-icf.png) 
