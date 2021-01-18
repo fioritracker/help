@@ -1,4 +1,4 @@
-site_name: Fiori Tracker
+site_name: Fiori Tracker - Automate your documentation preparation
 site_url: https://help.fioritracker.org/V2020/
 nav:
     - Suite: suite/SPS02/main.md

@@ -1,5 +1,5 @@
 # Free Documentation Assistant 
-📚💨 Automate your documentation preparation with Fiori Tracker.
+Automate your documentation preparation with Fiori Tracker 📚💨
 
 Documentation is the superior power of remote teams. The most successful remote working teams will be the ones that effectively translate the spoken to written.
 
