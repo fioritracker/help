@@ -9,4 +9,4 @@ On Central system using SAP Gui transaction **ZNYPEASISADMIN** start step 2. *Co
 
 For correctly configured systems it should show green light in column *status* as shown on below screenshot:
 
-![](res/connection-status.png)
+[![](res/connection-status.png)](res/connection-status.png)

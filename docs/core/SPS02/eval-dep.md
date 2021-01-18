@@ -6,4 +6,4 @@ The only product that you need to install is:
 
 1. Catalog Report
 
-![](res/eval-dep.png)
+[![](res/eval-dep.png)](res/eval-dep.png)
