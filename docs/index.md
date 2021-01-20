@@ -1,3 +1,7 @@
+---
+title: Free Documentation Assistant
+---
+
 # Free Documentation Assistant 
 Automate your documentation preparation with Fiori Tracker 📚💨
 
