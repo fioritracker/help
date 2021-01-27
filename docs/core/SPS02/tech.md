@@ -51,3 +51,22 @@ Tile: "FT Core Catalogs"<br>
 * Action: display
 * ID:  nype.ft.catalog
 * Icon: sap-icon://group-2
+
+# Help references
+
+1. When library is not 1.52 at the very beginning when FT version cannot be checked yet (odata not avaialble):
+https://help.fioritracker.org/V2020/ui5lib-options
+index.html
+
+2. If odata service is not responding:
+https://help.fioritracker.org/V{1}/inst/step-3
+{1} first part of version ("2020")
+i18n.properties
+
+3. When library is not 1.52 and version of FT was read from odata
+https://help.fioritracker.org/V{view>/ftVersionPath}/ui5lib-options
+webapp/view/fragments/WarningPopover.fragment.xml-12
+
+
+
+
