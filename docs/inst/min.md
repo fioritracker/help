@@ -15,4 +15,4 @@ It should also work with:
 - SAP S/4 HANA 1503
 
 # Details 
-Fiori Tracker frontend part requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above SP).). For systems that do not have UI5 library in this version Fiori Tracker can be still run from Technical launchpad.
+Fiori Tracker frontend part requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above Support Package). For systems that do not offer UI5 library in recommeded version Fiori Tracker can be still run from [Technical launchpad](../ui5lib-options.md).
