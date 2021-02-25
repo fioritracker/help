@@ -11,8 +11,9 @@ Fiori Tracker Core is a pair of apps for keeping a record of your SAP Fiori laun
 
 Fiori Tracker Core contains the following applications: 
 
-1. [FT applications (with core relation: To-be catalogs)](../../core/SPS03/apps.md) - for keeping "To-be" records of applications in scope
-2. [FT catalogs (with core relation: To-be apps)](../../core/SPS03/cats.md) - for keeping "To-be" records of catalogs in scope
+[FT Applications (with core relation: To-be catalogs)](../../core/SPS03/apps.md) - for keeping "To-be" records of applications in scope
+
+[FT Catalogs (with core relation: To-be apps)](../../core/SPS03/cats.md) - for keeping "To-be" records of catalogs in scope
 
 ## [Installation](inst.md)
 

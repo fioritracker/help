@@ -5,17 +5,8 @@ This relation shows a list of currently configured applications in the selected 
 ## Location
 Central system
 
-## Available extensions
-None.
-
-## Dependencies
-Requires:  
-[Catalog Apps Report](../../ca/FPS01/main.md)
-
-## Other applications that might use the product
-[Fiori Tracker Core](../../core/SPS02/main.md) on Central system
-
-## [Installation](inst.md)
+## Installation
+This relation can be activated after installing {{ prod.ca.name }}. Please refer [{{ prod.ca.name }} installation guide](https://help.fioritracker.org/V2020/ca/FPS01/inst/) for details.
 
 ## [Technical information](tech.md)
 

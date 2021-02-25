@@ -33,6 +33,8 @@ extra:
       link: https://www.linkedin.com/company/fiori-tracker/
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/fioritracker
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC6bx5QiaM3KRE8qgshBrurg
   prod:  
     core:
       name: 'Fiori Tracker Core'
