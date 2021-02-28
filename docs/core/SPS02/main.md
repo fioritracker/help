@@ -29,12 +29,12 @@ Optional relations that can be installed on Fiori Tracker core
 
 1. [FT Apps Relation: Catalogs, As-is](../../ft-apps-rel-catalogs-asis/FPS01/main.md)
 2. [FT Catalogs Relation: Apps, As-is](../../ft-cats-rel-apps-asis/FPS01/main.md)
-3. [FT Apps Relation: Apps' Usage](../../ft-apps-rel-appsusage/FPS01/main.md)
+3. [FT Apps Relation: Apps' Usage](https://help.fioriappsusage.org/2020/FPS01/inst-cen-optional/) (Paid)
 
 ## Other applications that might use the product
+1. [App Catalogs Report](../../ac/FPS01/main.md)
+2. [Fiori Apps' Usage Report](http://help.fioriappsusage.org) (Paid)
 
-1. [Fiori Apps' Usage Report](../../fa/FPS01/main.md)
-2. [App Catalogs Report](../../ac/FPS01/main.md)
 
 ## Dependencies
 Independent - does not need any other product to be installed

@@ -19,6 +19,3 @@ In addition to standard relations you can install optional ones. You choose the 
 
 [FT Apps Relation: Catalogs, As-is](../../ft-apps-rel-catalogs-asis/FPS01/main.md) - This relation shows a list of currently configured catalogs that contain the selected application. You can see the list of the catalogs in each of your Managed systems.
 
-### Application usage relation
-
-[FT Apps Relation: Apps' Usage](../../ft-apps-rel-appsusage/FPS01/main.md) - This relation shows the list of users that started the application. The list is available for each of your Managed systems.
