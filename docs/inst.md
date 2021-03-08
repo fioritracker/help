@@ -1,7 +1,7 @@
 # Installation - General considerations
 
 !!! Info
-    Release 2020 SPS02 is not downward compatible with releases prior to 2020 FPS01. It should **not** be installed on top those releases. If you have used releases prior to 2020 FPS01 and would like to move to release 2020 SPS02 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com)
+    Release 2020 SPS02 is not downward compatible with releases prior to 2020 FPS01. It should **not** be installed on top those releases. If you have used releases prior to 2020 FPS01 and would like to move to release 2020 SPS02 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com). For more details refer [Fiori Tracker Suit's products compatibility](inst/comp.md).
 
 ## Overview
 
@@ -9,6 +9,9 @@ To install Fiori Tracker please follow the installations guides that are in the 
 
 We designed each Fiori Tracker Suite product to work independently. Once you install the product and any dependent products are needed, it will guide the user to install those.
 
+## Deployment options
+
+We have designed Fiori Tracker components to enable flexible installation options. Depending on your SAP landscape setup and your organization constraints, you can deploy Fiori Tracker in the way that suits your project the best. [See details](inst/dep.md)
 ## Information summary of all products
 
 Below table shows Latest releases with system location.
