@@ -10,5 +10,5 @@ Basis:
 
 UX Lead:
 
-1. [Configure Managed systems list](../../inst/step-1.md) using admin transaction: `ZNYPEACADMIN`
+1. [Configure Managed systems list](../../../asis/FPS01/sys/) using admin transaction: `ZNYPEACADMIN`
 
