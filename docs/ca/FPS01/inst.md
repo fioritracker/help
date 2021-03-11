@@ -12,3 +12,4 @@ UX Lead:
 
 1. [Configure Managed systems list](../../../asis/FPS01/sys/) using admin transaction: `ZNYPEACADMIN`
 
+See also an [optional step](../../../ft-cats-rel-apps-asis/FPS01/main/) for installing [FT Core - Catalogs Relation: Apps, As-is](../../../ft-cats-rel-apps-asis/FPS01/main/)
