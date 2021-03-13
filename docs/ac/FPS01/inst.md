@@ -12,4 +12,4 @@ UX Lead:
 
 1. [Configure Managed systems list](../../inst/step-1.md) using admin transaction: `ZACADMIN`
 
-See also an [optional step](inst-opt.md) for installing [FT Core - Apps Relation: Catalogs, As-is](../../../ft-apps-rel-cats-asis/FPS01/main/)
+See also an [optional step](inst-opt.md) for installing [FT Core - Apps Relation: Catalogs, As-is](../../../ft-apps-rel-catalogs-asis/FPS01/main/)
