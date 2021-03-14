@@ -1,6 +1,6 @@
 # Configure managed systems
 
-1. In your Central system, using SAP Gui transaction **ZNYPEASISADMIN** start step *1. Modify Managed systems*:
+1. In your Central system, using SAP Gui transaction **ZASISADMIN** start step *1. Modify Managed systems*:
 
 [![](res/managed-systems.png)](res/managed-systems.png)
 
