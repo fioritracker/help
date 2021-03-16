@@ -35,7 +35,7 @@ Optional relations that can be installed on Fiori Tracker core
 ## Other applications that might use the product
 
 1. [Fiori Apps' Usage Report](../../fa/FPS01/main.md)
-2. [App Catalogs Report](../../ac/FPS01/main.md)
+2. [App Catalogs Report](../../ac/SPS02/main.md)
 
 ## Dependencies
 Independent - does not need any other product to be installed
