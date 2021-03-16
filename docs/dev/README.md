@@ -21,11 +21,11 @@
 
 ## Optional relations for Fiori Tracker
 *System values relations*<br>
-[FT Catalogs Relation: Apps As-is](/dev/ft-cats-rel-apps-asis.md) <br>
-[FT Apps Relation: Catalogs, As-is](/dev/ft-apps-rel-catalogs-asis.md)
+[FT Catalogs Relation: Apps As-is](/dev/cats-rel-apps-asis.md) <br>
+[FT Apps Relation: Catalogs, As-is](/dev/apps-rel-catalogs-asis.md)
 
 *Application usage relation*<br>
-[FT Apps Relation: Apps' Usage](/dev/ft-apps-rel-appsusage.md) 
+[FT Apps Relation: Apps' Usage](/dev/apps-rel-appsusage.md) 
 
 ## Plugin for as-is information
 [AsIs](/dev/asis.md) 

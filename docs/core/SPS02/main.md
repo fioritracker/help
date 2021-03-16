@@ -27,9 +27,9 @@ Managed system
 ## Available extensions
 Optional relations that can be installed on Fiori Tracker core
 
-1. [FT Apps Relation: Catalogs, As-is](../../ft-apps-rel-catalogs-asis/FPS01/main.md)
-2. [FT Catalogs Relation: Apps, As-is](../../ft-cats-rel-apps-asis/FPS01/main.md)
-3. [FT Apps Relation: Apps' Usage](https://help.fioriappsusage.org/2020/FPS01/inst-cen-optional/) (Paid)
+1. [FT Apps Relation: Catalogs, As-is](../../apps-rel-catalogs-asis/FPS01/main.md)
+2. [FT Catalogs Relation: Apps, As-is](../../cats-rel-apps-asis/FPS01/main.md)
+3. [FT Apps Relation: Apps' Usage](../../apps-rel-appsusage/FPS01/main.md) (Paid)
 
 ## Other applications that might use the product
 1. [App Catalogs Report](../../ac/FPS01/main.md)

@@ -1,7 +1,7 @@
 # FT Apps Relation: Catalogs, As-is - development details
 
 ## 1. Technical details
-[Details](/tech/ft-apps-rel-catalogs-asis.md)
+[Details](/tech/apps-rel-catalogs-asis.md)
 
 ## 2. Test cases
 
