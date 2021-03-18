@@ -4,6 +4,7 @@ Application provides the list of SAP Fiori apps assigned to a catalog in the cho
 
 [![](res/ca.png)](res/ca.png)
 
+[More details](det.md)
 ## [Installation](inst.md)
 
 ## Available extensions

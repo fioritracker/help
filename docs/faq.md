@@ -25,3 +25,8 @@ Yes. Fiori Tracker release numbering is independent from SAP release numbering. 
 Please send the screenshots form the application running in Chrome with URL and "Developer tools" console.
 
 Screenshot from respective SAP Gateway system from SAP Gui menu: System->Status SAP System Data -> Details.
+
+## 7. What are the features that are available for free version (1909 SPS06) and licensed version (2020 FPS01)?
+
+In terms of features, both versions are almost the same—the main difference is in architecture.
+Version 2020 FPS01 is less integrated with the rest of Fiori Tracker Suite. It is easier to support, maintain, and extend.
