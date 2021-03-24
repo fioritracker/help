@@ -12,4 +12,4 @@ As-is API, Basis expert steps
 1. [Install As-is Main API on Central system](../../asis/SPS02/inst-cen.md)
 2. [Install As-is Connector on each Managed system](../../asis/SPS02/inst-man.md)
 
-See also an [optional step](inst-opt.md) for installing [FT Core - Catalogs Relation: Apps, As-is](../../../ft-cats-rel-apps-asis/FPS01/main/)
+See also an [optional step](inst-opt.md) for installing FT Core - Catalogs Relation: Apps, As-is
