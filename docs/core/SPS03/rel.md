@@ -21,3 +21,13 @@ In addition to standard relations you can install optional ones. You choose the 
 
 [FT Apps Relation: Apps Usage](../../apps-rel-appsusage/FPS01/main.md) (paid)
 This relation shows how many times the user started the app. You can see the start count in each system configured to send the data (active Apps Usage Plugin).
+
+### Info records relations (coming in April 2021)
+
+FT Apps Relation/FT Catalogs Relation: Change Requests
+
+FT Apps Relation/FT Catalogs Relation: Comments
+
+FT Apps Relation/FT Catalogs Relation: Sign offs
+
+FT Apps Relation/FT Catalogs Relation: History
