@@ -25,6 +25,8 @@ This relation shows how many times the user started the app. You can see the sta
 ### Info records relations
 FT Apps and Catalogs Relation: [Change Requests](../../rel-ch/FPS01/main.md) {{ prod.RelCh.desc }}
 
+FT Apps and Catalogs Relation: Test users (Coming in April 2021)
+
 FT Apps and Catalogs Relation: Comments (Coming in April 2021)
 
 FT Apps and Catalogs Relation: Sign offs (Coming in April 2021)
