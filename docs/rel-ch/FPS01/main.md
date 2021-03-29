@@ -5,7 +5,7 @@
 ## Location
 Central system
 
-## [Installation](inst.md)
+## Installation
 This relation can be activated after installing {{ prod.ch.name }}. Please refer [{{ prod.ch.name }} installation guide](../../../ch/FPS01/inst/) for details.
 
 ## Other applications that might use the product
