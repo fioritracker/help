@@ -17,6 +17,8 @@ Fiori Tracker Core contains the following applications:
 
 ## [Installation](inst.md)
 
+## [Configuration](conf.md)
+
 ## Location
 {% if  prod.core.cen == 'X' %}
 Central system
