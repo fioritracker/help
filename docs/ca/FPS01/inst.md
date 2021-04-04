@@ -9,7 +9,6 @@ Main part:
 
 As-is API:
 
-1. [Install As-is Main API on Central system](../../asis/SPS02/inst-cen.md)
-2. [Install As-is Connector on each Managed system](../../asis/SPS02/inst-man.md)
+1. [Install As-is API](../../asis/SPS02/inst.md)
 
 See also an [optional step](inst-opt.md) for installing FT Core - Catalogs Relation: Apps, As-is
