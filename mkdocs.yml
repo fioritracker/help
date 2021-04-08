@@ -39,25 +39,25 @@ extra:
     core:
       name: 'Fiori Tracker Core'
       main: '2020'
-      latestrel: 'SPS02'
+      latestrel: 'SPS03'
       cen: 'X'
       man: ''
     asisCen:
       name: 'As-is main: API'
       main: '2020'
-      latestrel: 'FPS01'
+      latestrel: 'SPS02'
       cen: 'X'
       man: ''
     asisMan:
       name: 'As-is Connector'
       main: '2020'
-      latestrel: 'FPS01'
+      latestrel: 'SPS02'
       cen: 'X'
       man: 'X'
     cr:
       name: 'Catalog Report'
       main: '2020'
-      latestrel: 'FPS01'
+      latestrel: 'SPS02'
       cen: 'X'
       man: ''
     ac:

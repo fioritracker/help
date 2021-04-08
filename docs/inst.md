@@ -14,7 +14,7 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 We have designed Fiori Tracker components to enable flexible installation options. Depending on your SAP landscape setup and your organization constraints, you can deploy Fiori Tracker in the way that suits your project the best. [See details](inst/dep.md)
 ## Information summary of all products
 
-Below table shows Latest releases with system location.
+Below table shows the summary of the latest releases with system location.
 
 |Product|Central|Managed|Latest release|
 |--|--|--|--|
