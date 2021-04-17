@@ -2,8 +2,7 @@
 
 {{ prod.RelCh.desc }}
 
-## Location
-Central system
+[![](res/ch.png)](res/ch.png)
 
 ## Installation
 This relation can be activated after installing {{ prod.ch.name }}. Please refer [{{ prod.ch.name }} installation guide](../../../ch/FPS01/inst/) for details.
