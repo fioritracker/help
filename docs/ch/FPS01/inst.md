@@ -9,4 +9,4 @@ General:
 
 See also [an optional step](inst-opt.md) for installing FT Core - Applications and Catalogs Relation: Change Requests
 
-If you are installing Catalog Report for the first time please check [Evaluation deployment](eval-dep.md) for details on installing Change Requests app to one system (f.e. Sandbox).
+.

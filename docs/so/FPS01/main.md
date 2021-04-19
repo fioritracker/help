@@ -6,6 +6,8 @@ The Sign-offs app lets you create, change and list sign-offs records linked to a
 
 ## [Installation](inst.md)
 
+## [Configuration](conf.md)
+
 ## Location
 Located on Central system
 
