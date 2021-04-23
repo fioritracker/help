@@ -7,4 +7,4 @@ Execute the following steps:
 3. [Enable backend odata service](../../inst/step-3.md) for service `ZNYPERO_SRV`
 4. [Assign pfcg roles](../../inst/step-4.md) for role `ZNYPE_RO`
 
-See also [an optional step](inst-opt.md) for installing FT Voe - Applications and Catalogs Relation: Roles.
+See also [an optional step](inst-opt.md) for installing FT Roles - Applications and Catalogs Relation: Roles.
