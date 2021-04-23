@@ -1,6 +1,8 @@
 # Fiori Tracker Roles
 
-Fiori Tracker Roles is an apps for keeping a record of your SAP Fiori launchpad's roles.
+FT Roles component provides an app and relations for keeping the record of your SAP Fiori launchpad's roles.
+
+[![](res/ro-apps.png)](res/ro-apps.png)
 
 ## Key features
 - Easy role identification 
@@ -10,11 +12,9 @@ Fiori Tracker Roles is an apps for keeping a record of your SAP Fiori launchpad'
 
 Fiori Tracker Role contains the following application: 
 
-[FT Roles (with relation: To-be catalogs)](../../ro/FPS01/roles.md) - for keeping "To-be" records of the roles in scope
+[FT Roles (with relations: To-be catalogs, To-be Apps)](../../ro/FPS01/roles.md) - for keeping "To-be" records of the roles in scope
 
 ## [Installation](inst.md)
-
-## [Configuration](conf.md)
 
 ## Location
 {% if  prod.ro.cen == 'X' %}
