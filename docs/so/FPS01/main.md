@@ -9,8 +9,5 @@ Feature configuration lets you define your project-specific sign-off types and d
 
 ## [Configuration](conf.md)
 
-## Location
-Located on Central system
-
 
 
