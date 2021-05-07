@@ -25,6 +25,7 @@ Below table shows the summary of the latest releases with system location.
 |{{ prod.ac.name }}|{{ prod.ac.cen }}|{{ prod.ac.man }}|{{ prod.ac.latestrel }}|
 |{{ prod.ca.name }}|{{ prod.ca.cen }}|{{ prod.ca.man }}|{{ prod.ca.latestrel }}|
 |{{ prod.fa.name }}|{{ prod.fa.cen }}|{{ prod.fa.man }}|{{ prod.fa.latestrel }}|
+|{{ prod.fap.name }}|{{ prod.fap.cen }}|{{ prod.fap.man }}|{{ prod.fap.latestrel }}|
 |{{ prod.ch.name }}|{{ prod.ch.cen }}|{{ prod.ch.man }}|{{ prod.ch.latestrel }}|
 |{{ prod.so.name }}|{{ prod.so.cen }}|{{ prod.so.man }}|{{ prod.so.latestrel }}|
 
