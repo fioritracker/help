@@ -1,4 +1,3 @@
 # Fiori Tracker Suite's commercial products list
 
-1. [Catalog Import](https://help.fioritracker.app)
-2. [Fiori Apps' Usage Report](https://help.fioriappsusage.org)
+Please find the list o commercial components at: [help.fioritracker.app](http://help.fioritracker.app)

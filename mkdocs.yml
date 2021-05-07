@@ -16,6 +16,7 @@ nav:
       - Sign-offs: so/FPS01/main.md
     - Installation: inst.md
     - Minimal requirements: inst/min.md
+    - Bugs and ideas: bugs-ideas.md
     - FAQ: faq.md
 theme: 
   name: 'material'
@@ -44,66 +45,77 @@ extra:
       latestrel: 'SPS03'
       cen: 'X'
       man: ' '
+      rep: 'installation'
     asisCen:
       name: 'As-is main: API'
       main: '2020'
       latestrel: 'SPS02'
       cen: 'X'
       man: ' '
+      rep: 'asis-cen'
     asisMan:
       name: 'As-is Connector'
       main: '2020'
       latestrel: 'SPS02'
       cen: 'X'
       man: 'X'
+      rep: 'asis-man'
     cr:
       name: 'Catalog Report'
       main: '2020'
       latestrel: 'SPS02'
       cen: 'X'
       man: ' '
+      rep: 'cat-rep'
     ac:
       name: 'App Catalogs Report'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'ac'
     ca:
       name: 'Catalog Apps Report'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'ca'
     fa:
       name: 'Fiori Apps Usage Report'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'fa'
     fap:
       name: 'Fiori Apps Usage Plugin'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
       man: 'X'
+      rep: 'fap'
     ftCatsRelAppsAsis:
       name: 'FT Catalogs Relation: Apps As-is'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'asis-cen'
     ftAppsRelCatsAsis:
       name: 'FT Apps Relation: Catalogs, As-is'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'asis-cen'
     ftAppsRelAppsUsage:
       name: 'FT Apps Relation: Apps` Usage'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'fa'
     ch:
       name: 'Change Requests'
       desc: 'The Change Request app lets you create, change and list the change request linked to catalogs and apps.'
@@ -111,13 +123,15 @@ extra:
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'ch'
     RelCh:
       name: 'FT Apps and Catalogs Relation: Change Requests'
       desc: 'The Change Request relation shows a list of change requests linked to an application or catalog.'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
-      man: ' '    
+      man: ' '
+      rep: 'ch'    
     so:
       name: 'Sign-offs'
       desc: 'The Sign-offs app lets you create, change and list sign-offs records linked to all content types (apps, catalogs and roles)'
@@ -125,6 +139,7 @@ extra:
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'so'
     RelSo:
       name: 'FT Apps and Catalogs Relation: Sign-offs'
       desc: 'The Sign-offs relation shows a list of sign-offs linked to all content types (apps, catalogs and roles)'
@@ -132,6 +147,7 @@ extra:
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'so'
     ro:
       name: 'FT Roles'
       desc: 'Roles'
@@ -139,6 +155,7 @@ extra:
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'ro'
     RelRo:
       name: 'FT Apps and Catalogs Relation: Roles'
       desc: 'The Roles relation shows a list of sign-offs linked to all content types (apps, catalogs and roles)'
@@ -146,4 +163,5 @@ extra:
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
+      rep: 'ro'
 
