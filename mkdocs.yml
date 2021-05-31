@@ -149,7 +149,7 @@ extra:
       man: ' '
       rep: 'so'
     ro:
-      name: 'FT Roles'
+      name: 'Fiori Tracker Roles'
       desc: 'Roles'
       main: '2020'
       latestrel: 'FPS01'
