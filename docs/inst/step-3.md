@@ -45,3 +45,7 @@ If not, please execute the following steps:
 3.4 Click on **ICF node** button and from drop down chose **Activate**
 
 [![](res/maint-service-icf.png)](res/maint-service-icf.png) 
+
+3.5 Click on **Load Metadata** button
+
+[![](res/maint-service-meta.png)](res/maint-service-meta.png) 
