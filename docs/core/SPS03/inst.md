@@ -1,6 +1,7 @@
 # Installation for Fiori Tracker Core
 
-Execute the following steps:
+Execute the following steps in the {% if  prod.core.cen == 'X' %} Central system: {% endif %} {% if  prod.core.man == 'X' %} Managed system: {% endif %}
+
 
 1. [Download and import transports](../../inst/step-1.md) from Product release page [http://get.fioritracker.org](http://get.fioritracker.org) Release `2020SPS03`
 2. [Activate Frontend ICF nodes](../../inst/step-2.md) for nodes `zftapps` and `zftcats`

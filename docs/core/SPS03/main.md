@@ -20,27 +20,8 @@ Fiori Tracker Core contains the following applications:
 
 ## [Configuration](conf.md)
 
-## Location
-{% if  prod.core.cen == 'X' %}
-Central system
-{% endif %}
-{% if  prod.core.man == 'X' %}
-Managed system
-{% endif %}
-
-## Available extensions
-Optional relations that can be installed on Fiori Tracker core
-
-1. [FT Apps Relation: Catalogs, As-is](../../apps-rel-catalogs-asis/FPS01/main.md)
-2. [FT Catalogs Relation: Apps, As-is](../../cats-rel-apps-asis/FPS01/main.md)
-3. [FT Apps Relation: Apps' Usage](../../apps-rel-appsusage/FPS01/main.md) (paid)
-
-## Other applications that might use the product
-
-1. [Fiori Apps' Usage Report](../../fa/FPS01/main.md)
-2. [App Catalogs Report](../../ac/SPS02/main.md)
+## [Available extensions](ext.md)
 
 ## Dependencies
 Independent - does not need any other product to be installed
 
-## [Technical information](tech.md) 

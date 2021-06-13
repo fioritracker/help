@@ -3,5 +3,10 @@
 ## Relations
 [Relations](rel.md) - optional snap-ins that add functionality to Fiori Tracker Core apps
 
-## Plugin for As-is information
-[As-is](../../asis/SPS02/main.md) - Enables Central system to receive the data from Managed systems, enables Managed systems to send the data
+## Other applications that might use the product
+
+1. [Fiori Apps' Usage Report](http://help.fioriappsusage.org) (paid)
+2. [App Catalogs Report](../../../ac/FPS01/main)
+3. [Catalog Apps Report](../../../ca/FPS01/main)
+
+
