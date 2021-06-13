@@ -1,7 +1,7 @@
 site_name: Fiori Tracker
 site_url: https://help.fioritracker.org/V2020/
 nav:
-    - Suite: suite/SPS02/main.md
+    - Suite: suite/SPS03/main.md
     - Core:
       - Fiori Tracker Core: core/SPS03/main.md
       - Extensions: core/SPS03/ext.md
