@@ -7,11 +7,10 @@ nav:
       - Extensions: core/SPS03/ext.md
       - Relations: core/SPS03/rel.md
     - Roles: ro/FPS01/main.md    
+    - Catalog Reports: cats/SPS02/main.md 
+    - Change Requests: ch/FPS01/main.md
+    - Sign-offs: so/FPS01/main.md
     - As-is API: asis/SPS02/main.md
-    - Reports: 
-      - Catalog Reports: cats/SPS02/main.md 
-      - Change Requests: ch/FPS01/main.md
-      - Sign-offs: so/FPS01/main.md
     - Installation: inst.md
     - Minimal requirements: inst/min.md
     - Bugs and ideas: bugs-ideas.md
