@@ -6,17 +6,4 @@ Application provides the list of SAP Fiori catalogs assigned to SAP Fiori app in
 
 ## [Installation](inst.md)
 
-## Available extensions
-Optional extension that enables view of the catalogs in relation to friendly application name.
-[Fiori Tracker Core](../../core/SPS02/main.md) with [FT Apps Relation: Catalogs, As-is](../../apps-rel-catalogs-asis/FPS01/main.md)
-
-## Other applications that might use the product
-[FT Apps Relation: Catalogs, As-is](../../apps-rel-catalogs-asis/FPS01/main.md)
-
-## Dependencies
-Requires:  
-[As-is](../../asis/FPS01/main.md)
-
-## [Technical information](tech.md)
-
-
+## [Available extensions](ext.md)
