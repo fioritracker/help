@@ -22,6 +22,4 @@ Fiori Tracker Core contains the following applications:
 
 ## [Available extensions](ext.md)
 
-## Dependencies
-Independent - does not need any other product to be installed
 
