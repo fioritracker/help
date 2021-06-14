@@ -2,7 +2,7 @@
 
 General Basis expert steps
 
-1. [Download and import transports](../../inst/step-1.md) from Product release page [Product release page](https://github.com/fioritracker/cat-rep/releases) Release `2020SPS02`
+1. [Download and import transports](../../inst/step-1.md) from Product release page [Product release page](https://github.com/fioritracker/cr/releases) Release `2020SPS02`
 2. [Activate Frontend ICF nodes](../../inst/step-2.md) for node `zftcr`
 3. [Assign pfcg roles](../../inst/step-4.md) for role `ZNYPE_CR`
 
