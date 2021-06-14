@@ -7,7 +7,7 @@ nav:
       - Extensions: core/SPS03/ext.md
       - Relations: core/SPS03/rel.md
     - Roles: ro/FPS01/main.md    
-    - Catalog Reports: cats/SPS02/main.md 
+    - Catalog and App Reports: cat-app/SPS02/main.md 
     - Change Requests: ch/FPS01/main.md
     - Sign-offs: so/FPS01/main.md
     - As-is API: asis/SPS02/main.md

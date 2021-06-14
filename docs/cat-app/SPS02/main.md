@@ -1,4 +1,4 @@
-# Catalog related reports
+# Catalog and App related reports
 
 1.  [Catalog Report](../../../cr/SPS02/main)
 2.  [App Catalogs Report](../../../ac/FPS01/main)
