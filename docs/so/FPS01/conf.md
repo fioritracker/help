@@ -7,7 +7,7 @@ To configure Sign-off start SAP Gui transaction **ZSOADMIN**:
 In the Admin tool screen choose one of the functions.
 
 ## 1. Enable FT Core - Relation: Sing-offs
-Choose this function to enable relation in FT core. For details please refer to [relation section](../../../rel-so/FPS01/main.md).
+Choose this function to enable relation in FT core. For details please refer to [relation section](../../rel-so/FPS01/main.md).
 
 ## 2. Modify types
 This function let's you set up the list of your sign-off types. 

@@ -5,7 +5,7 @@ This relation shows a list of currently configured catalogs that contain the sel
 ## Location
 Central system
 
-## [Installation](inst.md)
+## [Installation]
 This relation can be activated after installing {{ prod.ac.name }}. Please refer [{{ prod.ac.name }} installation guide](https://help.fioritracker.org/V2020/ac/SPS02/inst/) for details.
 
 ## Other applications that might use the product
