@@ -30,3 +30,5 @@ Screenshot from respective SAP Gateway system from SAP Gui menu: System->Status 
 
 In terms of features, both versions are almost the same—the main difference is in architecture.
 Version 2020 FPS01 is less integrated with the rest of Fiori Tracker Suite. It is easier to support, maintain, and extend.
+
+If you have not found the answer to your questions in our online help please reach out to us on Fiori Tracker Slack or [create an issue on GitHub](bugs-ideas.md).

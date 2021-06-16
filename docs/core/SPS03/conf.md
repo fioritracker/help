@@ -11,3 +11,5 @@ This function allows you to set you functional area codes.
 ## 2.  Modify application types
 
 Allows you to modify or add the application types.
+
+## 3. 

@@ -14,6 +14,7 @@ nav:
     - Installation: inst.md
     - Minimal requirements: inst/min.md
     - Bugs and ideas: bugs-ideas.md
+    - Premier Support: premier.md
     - FAQ: faq.md
 theme: 
   name: 'material'
