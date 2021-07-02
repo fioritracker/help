@@ -1,6 +1,6 @@
 # Summary of all Fiori Tracker Suite's Components
 
-The list contains latest release name and system placement.
+The list contains system placement and latest release name.
 
 |Product|Central|Managed|Latest release|
 |--|--|--|--|
