@@ -1,6 +1,6 @@
 # Fiori Tracker Roles
 
-FT Roles component provides ["Roles List" app](ro-apps.md) with SAP Fiori Launchpad's roles details and with a set of relations. Relations link your roles to their related objects.
+FT Roles component provides ["Roles List" app](roles.md) with SAP Fiori Launchpad's roles details and with a set of relations. Relations link your roles to their related objects.
 
 [![](res/ro.png)](res/ro.png)
 
