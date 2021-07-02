@@ -1,36 +1,22 @@
 # Installation - General considerations
 
-!!! Info
-    Release 2020 SPS02 is not downward compatible with releases prior to 2020 FPS01. It should **not** be installed on top those releases. If you have used releases prior to 2020 FPS01 and would like to move to release 2020 SPS02 then you need to move your data manually. If you need help with moving you data please contact our project manager for an offer (gm@nypesap.com). For more details refer [Fiori Tracker Suit's products compatibility](inst/comp.md).
 
 ## Overview
 
-To install Fiori Tracker please follow the installations guides that are in the **Installation** section of each product page. 
+To install Fiori Tracker please follow the installations guides that are in the **Installation** section of each component page. 
 
 We designed each Fiori Tracker Suite product to work independently. Once you install the product and any dependent products are needed, it will guide the user to install those.
 
 ## Deployment options
 
-We have designed Fiori Tracker components to enable flexible installation options. Depending on your SAP landscape setup and your organization constraints, you can deploy Fiori Tracker in the way that suits your project the best. [See details](inst/dep.md)
-## Information summary of all products
+We have designed Fiori Tracker components to enable flexible installation options. Depending on your SAP landscape setup and your organization constraints, you can deploy Fiori Tracker in the way that suits your project the best. [See details](inst/dep.md).
 
-Below table shows the summary of the latest releases with system location.
+## Information summary of all components
 
-|Product|Central|Managed|Latest release|
-|--|--|--|--|
-|{{ prod.core.name }}|{{ prod.core.cen }}|{{ prod.core.man }}|{{ prod.core.latestrel }}|
-|{{ prod.ro.name }}|{{ prod.ro.cen }}|{{ prod.ro.man }}|{{ prod.ro.latestrel }}|
-|{{ prod.asisCen.name }}|{{ prod.asisCen.cen }}|{{ prod.asisCen.man }}|{{ prod.asisCen.latestrel }}|
-|{{ prod.asisMan.name }}|{{ prod.asisMan.cen }}|{{ prod.asisMan.man }}|{{ prod.asisMan.latestrel }}|
-|{{ prod.cr.name }}|{{ prod.cr.cen }}|{{ prod.cr.man }}|{{ prod.cr.latestrel }}|
-|{{ prod.ac.name }}|{{ prod.ac.cen }}|{{ prod.ac.man }}|{{ prod.ac.latestrel }}|
-|{{ prod.ca.name }}|{{ prod.ca.cen }}|{{ prod.ca.man }}|{{ prod.ca.latestrel }}|
-|{{ prod.ch.name }}|{{ prod.ch.cen }}|{{ prod.ch.man }}|{{ prod.ch.latestrel }}|
-|{{ prod.so.name }}|{{ prod.so.cen }}|{{ prod.so.man }}|{{ prod.so.latestrel }}|
-|{{ prod.fa.name }}|{{ prod.fa.cen }}|{{ prod.fa.man }}|{{ prod.fa.latestrel }}|
-|{{ prod.fap.name }}|{{ prod.fap.cen }}|{{ prod.fap.man }}|{{ prod.fap.latestrel }}|
-
+See [Components summary](inst/comp-list.md) for the list all available Fiori Tracker Suite components. The list contains the latest release name and on its system location.
 
 ## Minimal requirements
 
 Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
+
+## [Components compatibility](inst/comp.md)
