@@ -4,4 +4,5 @@ API installed in Central accompanied by Connector installed on Managed systems. 
 
 ## [Installation](inst.md)
 
+## [Configuration](conf.md)
 ## [Dependents](dependents.md)
