@@ -6,11 +6,11 @@ To configure Fiori Tracker core use SAP Gui transaction **ZFTADMIN**:
 
 ## 1.  Modify config
 
-This function allows you to set [configuration parameters](conf-params.md).
+The "Modify config" function allows you to set [configuration parameters](conf-params.md).
 
 ## 2.  Modify area codes
 
-This function allows you to set you functional area codes.
+The "Modify area codes" function allows you to define the names of the areas used in your project.
 
 ## 3.  Modify application types
 
