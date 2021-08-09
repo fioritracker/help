@@ -57,6 +57,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'installation'
+      pay: 'free'
     asisCen:
       name: 'As-is main: API'
       main: '2020'
@@ -64,6 +65,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'asis-cen'
+      pay: 'free'
     asisMan:
       name: 'As-is Connector'
       main: '2020'
@@ -71,6 +73,7 @@ extra:
       cen: 'X'
       man: 'X'
       rep: 'asis-man'
+      pay: 'free'
     cr:
       name: 'Catalog Report'
       main: '2020'
@@ -78,6 +81,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'cat-rep'
+      pay: 'free'
     ac:
       name: 'App Catalogs Report'
       main: '2020'
@@ -85,6 +89,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'ac'
+      pay: 'free'
     ca:
       name: 'Catalog Apps Report'
       main: '2020'
@@ -92,6 +97,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'ca'
+      pay: 'free'
     fa:
       name: 'Fiori Apps Usage Report'
       main: '2020'
@@ -99,6 +105,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'fa'
+      pay: 'paid'
     fap:
       name: 'Fiori Apps Usage Plugin'
       main: '2020'
@@ -106,6 +113,7 @@ extra:
       cen: 'X'
       man: 'X'
       rep: 'fap'
+      pay: 'paid'
     ftCatsRelAppsAsis:
       name: 'FT Catalogs Relation: Apps As-is'
       main: '2020'
@@ -113,6 +121,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'asis-cen'
+      pay: 'free'
     ftAppsRelCatsAsis:
       name: 'FT Apps Relation: Catalogs, As-is'
       main: '2020'
@@ -120,6 +129,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'asis-cen'
+      pay: 'free'
     ftAppsRelAppsUsage:
       name: 'FT Apps Relation: Apps` Usage'
       main: '2020'
@@ -127,6 +137,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'fa'
+      pay: 'paid'
     ch:
       name: 'Change Requests'
       desc: 'The Change Request app lets you create, change and list the change request linked to catalogs and apps.'
@@ -135,6 +146,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'ch'
+      pay: 'free'
     RelCh:
       name: 'FT Apps and Catalogs Relation: Change Requests'
       desc: 'The Change Request relation shows a list of change requests linked to an application or catalog.'
@@ -142,7 +154,8 @@ extra:
       latestrel: 'FPS01'
       cen: 'X'
       man: ' '
-      rep: 'ch'    
+      rep: 'ch'
+      pay: 'free'  
     so:
       name: 'Sign-offs'
       desc: 'The Sign-offs app lets you create, change and list sign-offs records linked to all content types (apps, catalogs and roles)'
@@ -151,6 +164,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'so'
+      pay: 'free'
     RelSo:
       name: 'FT Apps and Catalogs Relation: Sign-offs'
       desc: 'The Sign-offs relation shows a list of sign-offs linked to all content types (apps, catalogs and roles)'
@@ -159,6 +173,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'so'
+      pay: 'free'
     ro:
       name: 'Fiori Tracker Roles'
       desc: 'Roles'
@@ -167,6 +182,7 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'ro'
+      pay: 'free'
     RelRo:
       name: 'FT Apps and Catalogs Relation: Roles'
       desc: 'The Roles relation shows a list of sign-offs linked to all content types (apps, catalogs and roles)'
@@ -175,4 +191,5 @@ extra:
       cen: 'X'
       man: ' '
       rep: 'ro'
+      pay: 'free'
 
