@@ -22,6 +22,7 @@ nav:
       - Catalog and App Reports: cat-app/SPS02/main.md 
       - Change Requests: ch/FPS01/main.md
       - Sign-offs: so/FPS01/main.md
+      - Test users: tu/FPS01/main.md
       - Gover 🌱: gv/FPS01/main.md
       - As-is API: asis/SPS02/main.md
     - Installation: inst.md
