@@ -11,12 +11,9 @@ The entries for Roles can serve as a reference for role-related content types. T
 - [Applications](role-apps.md)
 - [Catalogs](role-cats.md)
 - [Change requests](role-change-req.md)
-- Comments
-- Test users records
-- Sign-offs
+- [Comments](role-comments.md)
+- [Test users records](role-test-users.md)
+- [Sign-offs](role-sign-offs.md)
 - History
 
-[![](res/role-comments.png)](res/role-comments.png)
-[![](res/role-test-users.png)](res/role-test-users.png)
-[![](res/role-sign-offs.png)](res/role-sign-offs.png)
 [![](res/role-hist.png)](res/role-hist.png)
