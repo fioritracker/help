@@ -14,6 +14,5 @@ The entries for Roles can serve as a reference for role-related content types. T
 - [Comments](role-comments.md)
 - [Test users records](role-test-users.md)
 - [Sign-offs](role-sign-offs.md)
-- History
+- [History](role-hist.md)
 
-[![](res/role-hist.png)](res/role-hist.png)
