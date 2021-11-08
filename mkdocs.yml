@@ -2,14 +2,14 @@ site_name: Fiori Tracker
 site_url: https://help.fioritracker.org/V2020/
 nav:
     - Suite: suite/SPS03/main.md
-    - Tracked content: 
-      - Systems: tracked/SPS03/systems.md
+    - Tracked content:    
       - Roles: tracked/SPS03/roles.md
       - Catalogs: tracked/SPS03/cats.md
       - Apps: tracked/SPS03/apps.md
+      - Apps usage: tracked/SPS03/appsusage.md
+      - Systems: tracked/SPS03/systems.md
       - Sign-offs: tracked/SPS03/signoff.md
       - Change requests: tracked/SPS03/changereq.md
-      - Apps usage: tracked/SPS03/appsusage.md
       - Security checks: tracked/SPS03/gover.md
       - Test users: tracked/SPS03/testusers.md
       - Comments: tracked/SPS03/comments.md
