@@ -5,11 +5,11 @@
 ## Standard relations 
 There are two standard relations that come with FT Applications and FT Catalog apps:
 
-FT Apps Relation: [To-be Catalogs](../../core/SPS03/apps-rel-tobe-cats.md) - for keeping "To-be" assignments of apps to catalogs
+FT Apps Relation: [To-be Catalogs](../../core/SPS03/apps-rel-tobe-cats.md) - for keeping ["To-be"](../../to-be.md) assignments of apps to catalogs
 
-FT Catalogs Relation: [To-be Apps](../../core/SPS03/cats-rel-tobe-apps.md) - for keeping "To-be" assignments of catalogs to applications 
+FT Catalogs Relation: [To-be Apps](../../core/SPS03/cats-rel-tobe-apps.md) - for keeping ["To-be"](../../to-be.md) assignments of catalogs to applications 
 
-In addition to standard relations you can install optional ones. You choose the relations that are relevant to your project. Theres is also a possibility to build you own custom relations.
+In addition to standard relations, you can install optional ones. You choose the relations that are relevant to your project. You can also build your custom relations.
 
 ## Optional relations
 
