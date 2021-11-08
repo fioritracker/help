@@ -1,7 +1,6 @@
 # Fiori Launchpad Content requirements gathering
 
-Collecting requirements in the preparation phase of SAP implementation requires teamwork. Both technical and functional experts are involved. On large projects with many streams, the engaged team count might reach ten people. Fiori Tracker helps the team with providing one directory of the agreed Fiori Launchpad content. Fiori Tracker keeps the links between the different content types. Managing records with Fiori Tracker prevents duplications and inconsistencies.
-
+Collecting requirements in the preparation phase of SAP implementation requires teamwork. Both technical and functional experts are involved. On large projects with many streams, the team needs a central directory of the agreed Fiori Launchpad content. Usually the team uses a shared spreadsheet.
 ## The challenges and how Fiori Tracker addresses them
 
 |Challenge|Description|Fiori Tracker function|
