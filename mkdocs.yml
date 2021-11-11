@@ -14,7 +14,8 @@ nav:
       - Test users: tracked/SPS03/testusers.md
       - Comments: tracked/SPS03/comments.md
     - Use cases:
-      - Gathering requirements: usecases/SPS03/requirements-gathering/
+      - Gathering requirements: usecases/SPS03/requirements-gathering.md
+      - Clarity on responsibility: usecases/SPS03/clarity-on-resp.md
     - Available components:
       - Core:
         - Fiori Tracker Core: core/SPS03/main.md

@@ -5,7 +5,7 @@ Collecting requirements in the preparation phase of SAP implementation requires 
  Rather than storing your Fiori launchpad content details in spreadsheets, you manage them with a dedicated app: Fiori Tracker. The application enables data quality control, as it limits possible entries only to the correct ones. The application also checks certain fields to prevent duplication. The check is crucial, for example, for catalogs and Fiori app identifiers. 
 ## The challenges 
 
-The following are the challenges that the team will face when storing scope detail in spreadsheet.
+The following are the challenges that the team will face when storing scope detail in the spreadsheet.
 
 |Challenge|Description|Fiori Tracker function|
 |--|--|--|
