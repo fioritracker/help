@@ -22,4 +22,4 @@ Fiori Tracker can keep records of all your applications.
 [![](res/app-change-req.png)](res/app-change-req.png)
 [![](res/app-comm.png)](res/app-comm.png)
 [![](res/app-sign-offs.png)](res/app-sign-offs.png)
-[![](res/app-hist.png)](res/app-hist.png)ggg
+[![](res/app-hist.png)](res/app-hist.png)

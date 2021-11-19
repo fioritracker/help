@@ -13,6 +13,7 @@ nav:
       - Security checks: tracked/SPS03/gover.md
       - Test users: tracked/SPS03/testusers.md
       - Comments: tracked/SPS03/comments.md
+      - History: tracked/SPS03/history.md
     - Use cases:
       - Gathering requirements: usecases/SPS03/requirements-gathering.md
       - Clarity on responsibility: usecases/SPS03/clarity-on-resp.md
