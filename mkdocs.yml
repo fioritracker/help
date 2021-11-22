@@ -16,6 +16,7 @@ nav:
       - History: tracked/SPS03/history.md
     - Use cases:
       - Gathering requirements: usecases/SPS03/requirements-gathering.md
+      - Adding new application to user: usecases/SPS03/adding-app.md
       - Clarity on responsibility: usecases/SPS03/clarity-on-resp.md
       - Naming conventions: usecases/SPS03/naming.md
     - Available components:
