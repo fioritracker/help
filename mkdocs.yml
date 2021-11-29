@@ -59,6 +59,7 @@ extra:
   prod:  
     core:
       name: 'Fiori Tracker Core'
+      nameshort: 'Core'
       main: '2020'
       latestrel: 'SPS03'
       cen: 'X'
@@ -67,6 +68,7 @@ extra:
       pay: 'free'
     asisCen:
       name: 'As-is main: API'
+      nameshort: 'As-is API'
       main: '2020'
       latestrel: 'SPS02'
       cen: 'X'
@@ -172,6 +174,16 @@ extra:
       man: ' '
       rep: 'so'
       pay: 'free'
+    tu:
+      name: 'Test users'
+      nameshort: 'Test users'
+      desc: 'The Test users app lets you create, change, and list test user records.'
+      main: '2020'
+      latestrel: 'FPS01'
+      cen: 'X'
+      man: ' '
+      rep: 'tu'
+      pay: 'free'
     RelSo:
       name: 'FT Apps and Catalogs Relation: Sign-offs'
       desc: 'The Sign-offs relation shows a list of sign-offs linked to all content types (apps, catalogs and roles)'
@@ -183,6 +195,7 @@ extra:
       pay: 'free'
     ro:
       name: 'Fiori Tracker Roles'
+      nameshort: 'Roles'
       desc: 'Roles'
       main: '2020'
       latestrel: 'FPS01'
@@ -199,4 +212,13 @@ extra:
       man: ' '
       rep: 'ro'
       pay: 'free'
-
+    gv:
+      name: 'Gover'
+      nameshort: 'Gover'
+      desc: 'Gover is a solution that enables security checks for your SAP system landscape.'
+      main: '2020'
+      latestrel: 'FPS01'
+      cen: 'X'
+      man: ' '
+      rep: 'gv'
+      pay: 'paid'
