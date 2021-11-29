@@ -2,35 +2,13 @@ site_name: Fiori Tracker
 site_url: https://help.fioritracker.org/V2020/
 nav:
     - Suite: suite/SPS03/main.md
-    - Tracked content:    
-      - Roles: tracked/SPS03/roles.md
-      - Catalogs: tracked/SPS03/cats.md
-      - Apps: tracked/SPS03/apps.md
-      - Apps usage: tracked/SPS03/appsusage.md
-      - Systems: tracked/SPS03/systems.md
-      - Sign-offs: tracked/SPS03/signoff.md
-      - Change requests: tracked/SPS03/changereq.md
-      - Security checks: tracked/SPS03/gover.md
-      - Test users: tracked/SPS03/testusers.md
-      - Comments: tracked/SPS03/comments.md
-      - History: tracked/SPS03/history.md
+    - Tracked content: tracked.md
     - Use cases:
       - Gathering requirements: usecases/SPS03/requirements-gathering.md
       - Adding new application to user: usecases/SPS03/adding-app.md
       - Clarity on responsibility: usecases/SPS03/clarity-on-resp.md
       - Naming conventions: usecases/SPS03/naming.md
-    - Available components:
-      - Core:
-        - Fiori Tracker Core: core/SPS03/main.md
-        - Extensions: core/SPS03/ext.md
-        - Relations: core/SPS03/rel.md
-      - Roles: ro/FPS01/main.md    
-      - Catalog and App Reports: cat-app/SPS02/main.md 
-      - Change Requests: ch/FPS01/main.md
-      - Sign-offs: so/FPS01/main.md
-      - Test users: tu/FPS01/main.md
-      - Gover 🌱: gv/FPS01/main.md
-      - As-is API: asis/SPS02/main.md
+    - Available components: comp-main.md
     - Installation: inst.md
     - Minimal requirements: inst/min.md        
     - Bugs and ideas: bugs-ideas.md
