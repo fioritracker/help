@@ -8,7 +8,8 @@
 | [{{ prod.ch.name }}](ch/FPS01/main.md)      | {{ prod.ch.latestrel }}      | {{ prod.ch.pay }}      |
 | [{{ prod.so.name }}](so/FPS01/main.md)      | {{ prod.so.latestrel }}      | {{ prod.so.pay }}      |
 | [{{ prod.tu.name }}](tu/FPS01/main.md)     | {{ prod.tu.latestrel }}      | {{ prod.tu.pay }}      |
+| [{{ prod.co.name }}](hi/FPS01/main.md)      | {{ prod.co.latestrel }}      | {{ prod.co.pay }}      |
+| [{{ prod.hi.name }}](hi/FPS01/main.md)      | {{ prod.hi.latestrel }}      | {{ prod.hi.pay }}      |
 | [{{ prod.asisCen.nameshort }}](asis/SPS02/main.md) | {{ prod.asisCen.latestrel }} | {{ prod.asisCen.pay }} |
-| {{ prod.fa.name }}      | {{ prod.fa.latestrel }}      | {{ prod.fa.pay }}      |
-| {{ prod.fa.name }}      | {{ prod.fa.latestrel }}      | {{ prod.fa.pay }}      |
+| [{{ prod.fa.name }}](fa/FPS01/main.md)     | {{ prod.fa.latestrel }}      | {{ prod.fa.pay }}      |
 | [{{ prod.gv.name }}](gv/FPS01/main.md)      | {{ prod.gv.latestrel }}      | {{ prod.gv.pay }}      |
