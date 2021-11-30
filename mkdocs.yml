@@ -3,11 +3,7 @@ site_url: https://help.fioritracker.org/V2020/
 nav:
     - Suite: suite/SPS03/main.md
     - Tracked content: tracked.md
-    - Use cases:
-      - Gathering requirements: usecases/SPS03/requirements-gathering.md
-      - Adding new application to user: usecases/SPS03/adding-app.md
-      - Clarity on responsibility: usecases/SPS03/clarity-on-resp.md
-      - Naming conventions: usecases/SPS03/naming.md
+    - Use cases: usecases.md
     - Available components: comp-main.md
     - Installation: inst.md
     - Minimal requirements: inst/min.md        
@@ -176,7 +172,7 @@ extra:
     co:
       name: 'Comments'
       nameshort: 'Comments'
-      desc: 'The Comments component keeps the notes records for SAP Fiori launchpad key deliverables: apps, catalogs, and roles.'
+      desc: 'The Comments component keeps the free text notes records for SAP Fiori launchpad key deliverables: apps, catalogs, and roles.'
       main: '2020'
       latestrel: 'FPS01'
       cen: 'X'
