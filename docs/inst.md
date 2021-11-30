@@ -11,10 +11,6 @@ We designed each Fiori Tracker Suite product to work independently. Once you ins
 
 We have designed Fiori Tracker components to enable flexible installation options. Depending on your SAP landscape setup and your organization constraints, you can deploy Fiori Tracker in the way that suits your project the best. [See details](inst/dep.md).
 
-## Information summary of all components
-
-See [Components summary](inst/comp-list.md) for the list all available Fiori Tracker Suite components. The list contains the latest release name and on its system location.
-
 ## Minimal requirements
 
 Minimal requirement is any SAP system with GAP Gateway (software component SAP_GWFND) on SAP NetWeaver version at least 7.52 ([see details](inst/min.md))
