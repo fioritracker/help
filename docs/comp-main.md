@@ -1,5 +1,7 @@
 # List of available components
 
+You can choose from the list of available components and install only the ones you plan to use. That reduces the footprint on your system and simplifies maintenance.
+
 | Product                 | Latest release               | Payment                |
 |-------------------------|------------------------------|------------------------|
 | [{{ prod.core.nameshort }}](core/SPS03/main.md)    | {{ prod.core.latestrel }}    | {{prod.core.pay}}      |
