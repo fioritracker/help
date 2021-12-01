@@ -1,8 +1,10 @@
 # Content type: Applications
 
-Fiori Tracker can keep records of all your applications.
+Fiori Tracker can keep records of all your applications. The records contain the app attributes and links to related content types (see below).
 
 [![](res/app-list.png)](res/app-list.png)
+
+                                                                      |
 
 ## Linkage to other content types
  
@@ -10,15 +12,15 @@ Fiori Tracker can keep records of all your applications.
 
 - [Catalogs (To-be)](app-cats-tobe.md)
 - [Catalogs (As-is)](app-cats-asis.md)
-- Roles
+- [Roles (To-be)](app-roles.md)
+- [Sign-offs](app-sign-offs.md)
 - Change requests
 - Comments
-- Sign-offs
 - History
 
-[![](res/app-roles.png)](res/app-roles.png)
-[![](res/app-usage.png)](res/app-usage.png)
+
 [![](res/app-change-req.png)](res/app-change-req.png)
 [![](res/app-comm.png)](res/app-comm.png)
-[![](res/app-sign-offs.png)](res/app-sign-offs.png)
 [![](res/app-hist.png)](res/app-hist.png)
+
+[![](res/app-usage.png)](res/app-usage.png)
