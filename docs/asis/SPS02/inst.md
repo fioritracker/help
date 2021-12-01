@@ -12,12 +12,7 @@ Steps 1, 3, and 4 describe the steps you need to perform on the Cental system an
 
 ## [3. Configure "As-is" Main API to connect to Manage systems](sys.md)
 
-## 4. Check if the Central system can access the Managed systems
-
-1. Start the *Manage systems* app
-2. Open the system you have configured and then press *Edit scope*
-3. In column *Plugin status message*, you should see "2020 SPS02"
-
+## [4. Check if the Central system can access the Managed systems](check.md)
 ## 5. Synchronize data
 
 1. On the Central system, log in to SAP Fiori launchpad using one of the users set in step 1 and from the group *As-is Main API* start *Data Collection Request* app.
