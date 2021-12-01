@@ -6,4 +6,4 @@ For each application, you can list all [To-be](../../to-be.md) Catalogs that con
 
 See also:
 
-[Roles linkage to other content types](apps.md#linkage-to-other-content-types)
+[Apps linkage to other content types](apps.md#linkage-to-other-content-types)
