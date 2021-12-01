@@ -7,6 +7,3 @@ General Basis expert steps:
 3. [Enable backend odata service](../../inst/step-3.md) for service `ZNYPEASISCEN_SRV`
 4. [Assign pfcg roles](../../inst/step-4.md) for role `ZNYPE_ASISCEN`
 
-Configuration steps:
-
-1. [Configure the list of the systems you want to manage](../../asis/SPS02/sys.md)

@@ -5,17 +5,24 @@ As-is API has two parts:
 1. "As-is" Main API located on Central system
 2. "As-is" Connector located on Managed system
 
-Step 1 describes the steps you need to perform on Cental system and step 2 for Managed system:
+Steps 1, 3, and 4 describe the steps you need to perform on the Cental system and step 2 for the Managed system:
 
 ## [1. Install "As-is" Main API on Central system](inst-cen.md)
-
 ## [2. Install "As-is" Connector on Managed system](inst-man.md)
 
-## 3. Synchronize data
+## [3. Configure "As-is" Main API to connect to Manage systems](sys.md)
 
-1. On Central system login to SAP Fiori launchpad using one of the users set in step 1 and from group *As-is Main API* start *Data Collection Request* app.
+## 4. Check if the Central system can access the Managed systems
+
+1. Start the *Manage systems* app
+2. Open the system you have configured and then press *Edit scope*
+3. In column *Plugin status message*, you should see "2020 SPS02"
+
+## 5. Synchronize data
+
+1. On the Central system, log in to SAP Fiori launchpad using one of the users set in step 1 and from the group *As-is Main API* start *Data Collection Request* app.
 
 2. Click button *Create request*
 
-3. Wait until synchronization finishes. To check the progress of the synchronization status press button *Refresh*
+3. Wait until synchronization finishes. To check the progress of the synchronization status, press the button *Refresh*
 
