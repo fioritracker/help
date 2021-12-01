@@ -1,6 +1,6 @@
 # Content type: Apps linked to Sigh-offs (Info record)
 
-For each application, you can list all Sign-off records..
+For each application, you can list all Sign-off records.
 
 [![](res/app-sign-offs.png)](res/app-sign-offs.png)
 

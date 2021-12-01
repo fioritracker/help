@@ -8,17 +8,13 @@ Fiori Tracker can keep records of all your applications. The records contain the
  
  Application entry serves as a reference for application-related content types lists. The content you can list with the application is:
 
-- [Catalogs (To-be)](app-cats-tobe.md)
-- [Catalogs (As-is)](app-cats-asis.md)
-- [Roles (To-be)](app-roles.md)
-- [Sign-offs](app-sign-offs.md)
-- Change requests
-- Comments
-- History
+| [To-be](../../to-be.md) | As-is | Info records|
+|-|-|-|
+| [Catalogs (To-be)](app-cats-tobe.md)| [Catalogs (As-is)](app-cats-asis.md)| |
+| [Roles (To-be)](app-roles.md)|
+| | | [Sign-offs](app-sign-offs.md)|
+| | | [Change requests](app-change-req.md)|
+| | | [Comments](app-comm.md)|
+| | | [History](app-hist.md)|
+| | [Usage records](app-usage.md)| |
 
-
-[![](res/app-change-req.png)](res/app-change-req.png)
-[![](res/app-comm.png)](res/app-comm.png)
-[![](res/app-hist.png)](res/app-hist.png)
-
-[![](res/app-usage.png)](res/app-usage.png)
