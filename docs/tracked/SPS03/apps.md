@@ -2,9 +2,7 @@
 
 Fiori Tracker can keep records of all your applications. The records contain the app attributes and links to related content types (see below).
 
-[![](res/app-list.png)](res/app-list.png)
-
-                                                                      |
+[![](res/app-list.png)](res/app-list.png)                               
 
 ## Linkage to other content types
  
