@@ -46,6 +46,7 @@ extra:
       pay: 'free'
     asisCen:
       name: 'As-is main: API'
+      desc: 'Enables Managed systems data synchronization'
       nameshort: 'As-is API'
       main: '2020'
       latestrel: 'SPS02'
