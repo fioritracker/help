@@ -6,7 +6,7 @@ You can choose from the list of available components and install only the ones y
 |----------------------------------------------------|-------------------------|------------------------|
 | [{{ prod.core.nameshort }}](core/SPS03/main.md)    | {{prod.core.desc}}      | {{prod.core.pay}}      |
 | [{{ prod.ro.nameshort }}](ro/FPS01/main.md)        | {{ prod.ro.desc }}      | {{ prod.ro.pay }}      |
-| [Catalog and App reports](cat-app/SPS02/main.md)   | free                    | free                   |
+| [Catalog and App reports](cat-app/SPS02/main.md)   | {{ prod.catAppRep.desc}}| {{ prod.catAppRep.pay}}|
 | [{{ prod.ch.name }}](ch/FPS01/main.md)             | {{ prod.ch.desc }}      | {{ prod.ch.pay }}      |
 | [{{ prod.so.name }}](so/FPS01/main.md)             | {{ prod.so.desc }}      | {{ prod.so.pay }}      |
 | [{{ prod.tu.name }}](tu/FPS01/main.md)             | {{ prod.tu.desc }}      | {{ prod.tu.pay }}      |
