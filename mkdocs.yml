@@ -212,6 +212,16 @@ extra:
       man: ' '
       rep: 'ro'
       pay: 'free'
+    ci:
+      name: 'Catalog Import'
+      nameshort: 'Catalog Import'
+      desc: 'Lets you import catalogs from your system into the "To-do" catalogs list'
+      main: '2020'
+      latestrel: 'SPS02'
+      cen: 'X'
+      man: ' '
+      rep: 'ci'
+      pay: 'paid'
     RelRo:
       name: 'FT Apps and Catalogs Relation: Roles'
       desc: 'The Roles relation shows a list of sign-offs linked to all content types (apps, catalogs and roles)'
