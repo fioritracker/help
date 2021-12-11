@@ -14,5 +14,7 @@ You can choose from the list of available components and install only the ones y
 | [{{ prod.hi.name }}](hi/FPS01/main.md)             | {{ prod.hi.desc }}      | {{ prod.hi.pay }}      | [:octicons-download-16:](hi/FPS01/inst.md) |
 | [{{ prod.asisCen.nameshort }}](asis/SPS02/main.md) | {{ prod.asisCen.desc }} | {{ prod.asisCen.pay }} | [:octicons-download-16:](asis/SPS02/inst.md) |
 | [{{ prod.ci.name }}](ci/SPS02/main.md)             | {{ prod.ci.desc }}      | {{ prod.ci.pay }}      | [:octicons-link-external-16:](https://help.fioritracker.app/2020/ci/SPS02/main/) |
+| [{{ prod.ai.name }}](ai/FPS01/main.md)             | {{ prod.ai.desc }}      | {{ prod.ai.pay }}      | [:octicons-link-external-16:](https://help.fioritracker.app/2020/ai/FPS01/main/) |
+| [{{ prod.mi.name }}](mi/FPS01/main.md)             | {{ prod.mi.desc }}      | {{ prod.mi.pay }}      | [:octicons-link-external-16:](https://help.fioritracker.app/2020/mi/FPS01/main/) |
 | [{{ prod.fa.name }}](fa/FPS01/main.md)             | {{ prod.fa.desc }}      | {{ prod.fa.pay }}      | [:octicons-link-external-16:](https://help.fioriappsusage.org) |
 | [{{ prod.gv.name }}](gv/FPS01/main.md)             | {{ prod.gv.desc }}      | {{ prod.gv.pay }}      | [:octicons-link-external-16:](https://help.gvr.cm) |
