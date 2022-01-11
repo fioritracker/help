@@ -3,7 +3,9 @@
 !!! Note
     The minimal requirement for Fiori Tracker is any SAP system with GAP Gateway (software component SAP_GWFND).
 
-Fiori Tracker frontend part requires SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 (or above Support Package). For systems that do not offer UI5 library in recommended version Fiori Tracker can be still run from [Technical launchpad](../ui5lib-options.md).
+Fiori Tracker frontend part requires SAP NetWeaver version at least 7.52 with SAP Gateway with SAP UI5 library at least version: 1.48.9 (UI software component in version: SAP_UI 752 SP00 or above Support Package). 
+
+On systems that do not offer UI5 1.48.9 o above, you can run Fiori Tracker run from [Technical launchpad](../ui5lib-options.md).
 
 Fiori Tracker Suite will work in both HUB and Embedded deployment.
 
