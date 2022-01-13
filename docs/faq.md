@@ -36,3 +36,14 @@ If you have not found the answer to your questions in our online help, please re
 ## 8. How to de-install Fiori Tracker components?
 
 To de-install Fiori Tracker components, please perform the reverse of the installation steps in the reverse order. For import transports steps perform the deletion of the objects from the component's transport package.
+
+## 9. Why would I need a dedicated app instead of the shared Excel spreadsheet or Atlassian Confulence page?
+
+App records kept in the spreadsheet cause many challenges. Here are the most important ones:
+
+- Unauthorized, accidental modification causing inconsistencies
+- Lack of history and origin of changes
+- Duplication
+- Lack of 1 to N relation maintenance
+
+See ["The challenges of storing Fiori content records in the spreadsheet"](spreadsheet-challenges.md) for more details.
