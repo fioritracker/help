@@ -13,4 +13,4 @@ Naming convention for "App Id" is a decision of the user. We recommend the follo
 
 - For SAP standard apps use the "App ID" field from SAP Fiori Apps Reference Library. For example "F3140" (https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('F3140')/S20OP). 
 - For custom apps, the BSP name. For example ZFTCA
-- For other type of Fiori launchpad enabled apps we recommend using the prefix for the app type and the unique ID that is used within this type of the app. For example for Multidimensional reports app with ZMD<SQL query view name>
+- For other type of Fiori launchpad enabled apps we recommend using the prefix for the app type and the unique ID that is used within this type of the app. For example, for a Multidimensional reports app with ZMD<SQL query view name>.

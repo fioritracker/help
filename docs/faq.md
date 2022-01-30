@@ -22,7 +22,7 @@ Yes. Fiori Tracker release numbering is independent of SAP release numbering. Fi
 
 ## 6. What details do you need for troubleshooting the issues?
 
-Please send the screenshots form the application running in Chrome with URL and "Developer tools" console.
+Please send the screenshots of the application running in Chrome with URL and "Developer tools" console.
 
 Screenshot from respective SAP Gateway system from SAP Gui menu: System->Status SAP System Data -> Details.
 
