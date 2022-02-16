@@ -2,7 +2,7 @@
 
 | Use case name                                                      | Addressed challenges                                                                  | SAP Activate project phase|
 |--------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------|
-| [Handover to support](usecases/SPS03/support-handover.md) | Know how SAP Fiori launchpad was set up                       |Prepare, Realize, Deploy, Run|
+| [Handover to support](usecases/SPS03/support-handover.md) | Accessing SAP Fiori launchpad set up know-how                       |Prepare, Realize, Deploy, Run|
 | [Application identification](usecases/SPS03/app-identification.md) | Clear identification of the applications in scope                       |Prepare, Realize, Deploy, Run|
 | [Scope control](usecases/SPS03/scope-control.md) | Scope creep and impact on maintenance and support costs                      |Prepare, Realize, Deploy, Run|
 | [Gathering requirements](usecases/SPS03/requirements-gathering.md) | Content duplication, 1 to N mapping, and consistency                                  |Prepare, Realize, Deploy, Run|
