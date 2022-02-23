@@ -7,6 +7,7 @@
 | [Scope control](usecases/SPS03/scope-control.md) | Scope creep and impact on maintenance and support costs                      |Prepare, Realize, Deploy, Run|
 | [Gathering requirements](usecases/SPS03/requirements-gathering.md) | Content duplication, 1 to N mapping, and consistency                                  |Prepare, Realize, Deploy, Run|
 | [Recording test results](usecases/SPS03/recording-test-results.md)     | Recording test results                                       |Realize, Deploy, Run|
+| [Evaluating upgrade impact](usecases/SPS03/eval-impact.md)     | Evaluating upgrade impact                                      |Realize, Deploy, Run|
 | [Adding new application to user](usecases/SPS03/adding-app.md)     | Additional decisions on updating catalogs                                             |Realize, Deploy, Run
 | [Clarity on responsibility](usecases/SPS03/clarity-on-resp.md)     | Diffused responsibility on the content that is shared                                  |Prepare, Realize, Deploy, Run|
 | [Naming conventions](usecases/SPS03/naming.md)                     | Consistent naming when different team members create and change content identifiers |Prepare, Realize, Deploy, Run|
