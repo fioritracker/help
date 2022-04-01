@@ -1,6 +1,6 @@
-#FT Apps and Catalogs Relation: Sign-offs - Installation steps
+#FT Apps Relation: Test users - Installation steps
 
-1. In SAP Gui start transaction **ZSOADMIN**
-2. In report screen choose *1. Enable {{prod.RelSo.name}}*
+1. In SAP Gui, start transaction **ZTUADMIN**
+2. In the report screen from below, choose *1. Enable {{prod.RelTu.name}}*
 
-[![](res/soadmin.png)](res/soadmin.png)
+[![](res/tuadmin.png)](res/tuadmin.png)
