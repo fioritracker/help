@@ -1,8 +1,8 @@
 ---
-title: Free Documentation Assistant
+title: SAP Fiori setup documentation platform
 ---
 
-# Free Documentation Assistant 
+# A documentation platform that makes at scale SAP Fiori setup specification governance available for all project members
 
 From [gathering requirements](usecases/SPS03/requirements-gathering.md) to linking with actual setup and usage statistics - Fiori Tracker helps you avoid common stumble points and cut project time from weeks down to days.
 
