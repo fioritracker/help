@@ -8,7 +8,7 @@ The main challenge is that applications are not added directly to users. The req
 
 ## How did the Fiori Tracker address the challenge?
 
-The Fiori Tracker keeps the list of all apps in scope. With this list, you can tell whether the new app is already in the project's scope, and drill down to learn how the team mapped the app to the catalogs and roles. If the role fits your requirement you can enable the new app by assigning the user to this role.
+The Fiori Tracker keeps the lists of all apps, catalogs and roles in scope. With this list, you can tell whether the new app is already in the project's scope, and drill down to learn how the team mapped the app to the catalogs and roles. If the role fits your requirement you can enable the new app by assigning the user to this role.
 
 If the new application is not in scope already, the first step is to check in which directory and, consequently, what role you want to put the new application in. You can find a good fit by reviewing lists of apps previously assigned to the catalogs.
 
