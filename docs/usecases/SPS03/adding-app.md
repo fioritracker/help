@@ -12,7 +12,15 @@ The Fiori Tracker keeps the list of all apps in scope. With this list, you can t
 
 If the new application is not in scope already, the first step is to check in which directory and, consequently, what role you want to put the new application in. You can find a good fit by reviewing lists of apps previously assigned to the catalogs.
 
-Fiori launchpad content you will need to track:
+## Fiori launchpad content you will need to track
+
 1. [Apps](tracked/SPS03/apps.md) - Fiori launchpad applications  
 2. [Catalogs](tracked/SPS03/cats.md) - Fiori launchpad business catalogs
 3. [Roles](tracked/SPS03/roles.md) - Authorizations roles 
+
+
+## Related use cases
+
+1. [Gathering requirements](usecases/SPS03/requirements-gathering.md) - Content duplication, 1 to N mapping, and consistency   
+2. [Clarity on responsibility](usecases/SPS03/clarity-on-resp.md) - Diffused responsibility on the content that is shared 
+2. [Naming conventions](usecases/SPS03/naming.md) - Consistent naming when different team members create and change content identifiers
