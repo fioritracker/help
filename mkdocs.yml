@@ -4,7 +4,6 @@ nav:
     - Learn more: learn-more.md
     - Installation: inst.md
     - Support: support.md     
-    - FAQ: faq.md
 theme: 
   name: 'material'
   favicon: 'assets/images/favicon.ico'
