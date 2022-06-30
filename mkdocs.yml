@@ -1,6 +1,7 @@
 site_name: Fiori Tracker
 site_url: https://help.fioritracker.org/V2020/
 nav:
+    - User manual: user-manual.md
     - Learn more: learn-more.md
     - Installation: inst.md
     - Support: support.md     
