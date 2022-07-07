@@ -22,6 +22,12 @@ FT Apps Relation: [Catalogs, As-is](../../apps-rel-catalogs-asis/FPS01/main.md) 
 FT Apps Relation: [Apps Usage](../../apps-rel-appsusage/FPS01/main.md) (paid)
 This relation shows how many times the user started the app. You can see the start count in each system configured to send the data (active Apps Usage Plugin).
 
+FT Systems Relation: [Apps As-is](../../sys-rel-apps-asis/SPS02/main.md)
+This relation shows a list of all currently configured apps in a chosen system.
+
+FT Systems Relation: [Catalogs As-is](../../sys-rel-cats-asis/SPS02/main.md)
+This relation shows a list of all currently configured catalogs in a chosen system.
+
 ### Info records relations
 FT Apps and Catalogs Relation: [Change Requests](../../rel-ch/FPS01/main.md) {{ prod.RelCh.desc }}
 
