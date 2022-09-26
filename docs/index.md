@@ -1,8 +1,10 @@
 ---
-title: SAP Fiori setup documentation platform
+title: Documentation platform for SAP Fiori setup
 ---
 
-# A documentation platform that makes SAP Fiori setup specification transparent for all project members
+# Boost your SAP project team productivity with automation
+
+Fiori Tracker helps SAP teams create and handle specification for SAP Fiori setup.
 
 From [gathering requirements](usecases/SPS03/requirements-gathering.md) to linking with actual setup and usage statistics - Fiori Tracker helps you avoid common stumble points and cut project time from weeks down to days.
 
