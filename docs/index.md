@@ -11,6 +11,9 @@ From [gathering requirements](usecases/SPS03/requirements-gathering.md) to linki
 # Host in your SAP landscape
 Fiori Tracker comes as a native SAP Fiori app that you can install on any SAP Gateway in your SAP landscape.
 
+[![](res/tiles.png)](res/tiles.png)
+
 # Handy add-ons available
 Fiori Tracker offers a stack of relations linking your SAP Fiori apps and catalogs to other information (system values, usage statistics). Choose between the standard relations, or build your own.
 
+[![](res/bubbles.png)](res/bubbles.png)
