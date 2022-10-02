@@ -1,4 +1,4 @@
-# Application identification
+# Universal application identification
 
 ## Challenge 
 How can the user tell the correct app he has issues with when calling the support center agent?
