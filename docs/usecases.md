@@ -12,3 +12,6 @@
 | [Clarity on responsibility](usecases/SPS03/clarity-on-resp.md)     | Diffused responsibility on the content that is shared                                  |Prepare, Realize, Deploy, Run|
 | [Naming conventions](usecases/SPS03/naming.md)                     | Consistent naming when different team members create and change content identifiers |Prepare, Realize, Deploy, Run|
 | [SAP Fiori setup transparency](usecases/SPS03/transparency.md)                     | SAP Fiori setup specification transparent for all project members. |Prepare, Realize, Deploy, Run|
+| [Comparing blueprint with system setup](usecases/SPS03/comparing-blueprint-with-setup.md)                     | Comparing blueprint with system setup |Prepare, Realize, Deploy, Run|
+| [Transparency of app technology categories](usecases/SPS03/tech-category.md)                     | Insight into the app technology category to ensure the availability of a competent expert and plan technology improvements
+ |Prepare, Realize, Deploy, Run|
