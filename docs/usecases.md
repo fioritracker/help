@@ -14,3 +14,4 @@
 | [SAP Fiori setup transparency](usecases/SPS03/transparency.md)                     | SAP Fiori setup specification transparent for all project members. |
 | [Comparing blueprint with system setup](usecases/SPS03/comparing-blueprint-with-setup.md)                     | Comparing blueprint with system setup |
 | [Transparency of app technology categories](usecases/SPS03/tech-category.md)                     | Insight into the app technology category to ensure the availability of a competent expert and plan technology improvements |
+| [Changes history](usecases/SPS03/changes-history.md) | Tracking the history of changes in the app |
