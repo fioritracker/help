@@ -2,7 +2,7 @@
 title: Documentation platform for SAP Fiori setup
 ---
 
-# Boost your SAP project team productivity with automation
+# Reduce the time your SAP team spends managing Fiori applications
 
 Fiori Tracker [helps SAP teams](satisfied-intrests-and-roles.md) create and handle specification for SAP Fiori setup.
 
