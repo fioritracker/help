@@ -1,6 +1,6 @@
-# Clarity on responsibility 
+# Clarity of responsibility 
 
-One of the goals of project management is clarity on responsibility.
+One of the goals of project management is clarity of responsibility.
 
 Fiori Tracker shows who is responsible for each SAP Fiori application. The information is available directly from the application (using the Fiori Launchpad plugin) or through the application details view.
 

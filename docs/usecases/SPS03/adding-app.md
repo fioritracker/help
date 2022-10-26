@@ -22,5 +22,5 @@ If the new application is not in scope already, the first step is to check in wh
 ## Related use cases
 
 1. [Gathering requirements](requirements-gathering.md) - Content duplication, 1 to N mapping, and consistency   
-2. [Clarity on responsibility](clarity-on-resp.md) - Diffused responsibility on the content that is shared 
+2. [Clarity on responsibility](clarity-of-resp.md) - Diffused responsibility on the content that is shared 
 2. [Naming conventions](naming.md) - Consistent naming when different team members create and change content identifiers
