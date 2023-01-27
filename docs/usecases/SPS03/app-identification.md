@@ -5,7 +5,7 @@ How can the user tell the correct app he has issues with when calling the suppor
 
 ## How did the Fiori Tracker address the challenge?
 
-The basis for the efficient handling of all applications available through the Fiori launchpad application is the clear identification of the application. The unambiguous definition of the application is crucial for the support of end-users, but also during the entire implementation project where the team is extending, testing, sign-off, and transferring applications between systems in the landscape.
+The basis for the efficient handling of all applications available through the Fiori launchpad application is the clear identification of the application. The unambiguous definition of the application is crucial for end-user support. It is also vital during the entire implementation project, where the team is extending, testing, sign-off, and transferring applications between systems in the landscape.
 
 To address the need for clear application identification Fiori Tracker keeps records of ["Content type: Application"](../../tracked/SPS03/apps.md). With the help of application ["FT Applications"](../../core/SPS03/apps.md) you can store the records of all your Fiori launchpad enabled applications in scope. Application records are kept as "To-be" records and reffered with an "App ID". The records serve as a single point of truth for application information in your project. 
 
