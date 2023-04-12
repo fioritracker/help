@@ -1,7 +1,11 @@
 # Universal application identification
 
-## Challenge 
-How can the user tell the correct app he has issues with when calling the support center agent?
+## Challenges
+
+1. How can the user tell the correct app he has issues with when calling the support center agent?
+2. How can the project members indicate the applications that require:
+Status tracking (in development, testing, and documentation process)
+Assignment  to a business area to set the responsibility (when developing, testing, and supporting applications)
 
 ## How did the Fiori Tracker address the challenge?
 
