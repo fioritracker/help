@@ -14,6 +14,6 @@ Fiori Tracker comes as a native SAP Fiori app that you can install on any SAP Ga
 [![](res/tiles.png)](res/tiles.png)
 
 # Handy add-ons available
-Fiori Tracker offers a stack of relations linking your SAP Fiori apps and catalogs to other information (system values, usage statistics). Choose and install only the relations you need.
+Fiori Tracker offers a stack of relations linking your SAP Fiori application to related records like mapping to catalogs, roles, and usage statistics. Choose and install only the relations you need.
 
 [![](res/bubbles.png)](res/bubbles.png)
