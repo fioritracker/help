@@ -2,7 +2,7 @@
 
 To change Central part configuration start the transaction **zasisadmin** and press button labeled: **4. Edit configuration**. This will open a maintenance view for table ZNYPEASIS_CONF:
 
-[![](res/zasisdmin.png)](res/zasisdmin.png)
+[![](res/asis-conf.png)](res/asis-conf.png)
 
 The table below descries all available parameters:
 
