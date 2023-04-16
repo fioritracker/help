@@ -1,10 +1,14 @@
-# History configuration
+# Comments configuration
 
-To configure Sign-off start SAP Gui transaction **ZHIADMIN**:
+To configure Sign-off start SAP Gui transaction **ZHIADMIN**.
 
-[![](res/hiadmin.png)](res/hiadmin.png)
+<!--- 
+![](res/coadmin.png)](res/coadmin.png) 
+-->
 
 In the Admin tool screen, choose one of the functions.
 
-## 1. Enable FT Core - Relation: History
-Choose this function to enable relation in FT core. For details please refer to [relation section](../../rel-hi/FPS01/main.md).
+<!--- 
+## 1. Enable FT Core - Relation: Comments
+ Choose this function to enable relation in FT core. For details please refer to [relation section](../../rel-co/FPS01/main.md).
+-->
