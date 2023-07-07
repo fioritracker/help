@@ -42,7 +42,7 @@ If the entry is present then move to sub-step 3 (Add system alias to ICF node), 
 
 If not, please execute the following steps:
 
-3.3 Choose `Add system alias`, `New entry` and in column in *Service Doc. Identifier* type &lt;service name&gt;_0001 (f.e. ZFOO_SRV_0001), in *SAP System Alias* type "LOCAL" and in column *Default System*, mark the check-mark.
+3.3 Choose `Add system alias`, `New entry` and in column in *Service Doc. Identifier* type &lt;service name&gt;_0001 (f.e. ZFOO_SRV_0001), in *SAP System Alias* type "LOCAL" and in column *Default System*,cd . ft mark the check-mark.
 
 3.4 Click on `ICF node` button and from drop down chose `Activate`
 

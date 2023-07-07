@@ -17,3 +17,6 @@ Fiori Tracker comes as a native SAP Fiori app that you can install on any SAP Ga
 Fiori Tracker offers a stack of relations linking your SAP Fiori application to related records like mapping to catalogs, roles, and usage statistics. Choose and install only the relations you need.
 
 [![](res/bubbles.png)](res/bubbles.png)
+
+# Compatibility
+Compatible with SAP S/4HANA releases from 1610 to 2022.
