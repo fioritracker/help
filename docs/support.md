@@ -2,11 +2,11 @@
 
 ## Bugs and ideas
 
-If you find a bug or, in case you have any suggestions for improvements, please contact us on Fiori Tracker support Slack or [open an issue on GitHub](bugs-ideas.md).
+If you find a bug or, in case you have any suggestions for improvements, please contact us on [Fiori Tracker support Discord](https://discord.gg/xGNzmej4KE) or [open an issue on GitHub](bugs-ideas.md).
 
 ## Standard support
 
-Fiori Tracker comes free of charge. We offer our team support on dedicated Slack and through Github issuse. Depending on the current avaialbilty and topic we will schedule a call to solve possible issues.
+Fiori Tracker comes free of charge. We offer our team support on Discord and through Github issue. Depending on the current availability and topic we will schedule a call to solve possible issues.
 
 ## Premier Support
 
