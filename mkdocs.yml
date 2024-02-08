@@ -25,6 +25,9 @@ plugins:
   - search
 copyright: Copyright &copy; 2016 - 2022 Nype
 extra:
+  analytics:
+    provider: google
+    property: G-426751662
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/fiori-tracker/
