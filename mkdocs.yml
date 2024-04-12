@@ -23,7 +23,7 @@ markdown_extensions:
 plugins:
   - macros
   - search
-copyright: Copyright &copy; 2016 - 2022 Nype
+copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
   analytics:
     provider: google
