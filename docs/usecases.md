@@ -5,7 +5,8 @@
 | [Handover to support](usecases/SPS03/support-handover.md) | Accessing SAP Fiori launchpad set up know-how                       |
 | [Universal application identification](usecases/SPS03/app-identification.md) | Clear identification of the applications in scope                       |
 | [Scope control](usecases/SPS03/scope-control.md) | Scope creep and impact on maintenance and support costs                      |
-| [Gathering requirements](usecases/SPS03/requirements-gathering.md) | Content duplication, 1 to N mapping, and consistency                                  |
+| [Gathering requirements](usecases/SPS03/requirements-gathering.md) | Single, shared point of truth accessible to all team members, enabling simultaneous edits |
+| [Avoiding Excel challenges](usecases/SPS03/spreadsheet-challenges.md) | Content duplication, 1 to N mapping, and consistency                                  |
 | [Recording test results](usecases/SPS03/recording-test-results.md)     | Recording test results                                       |
 | [Evaluating upgrade impact](usecases/SPS03/eval-impact.md)     | Evaluating upgrade impact                                      |
 | [Adding new application to user](usecases/SPS03/adding-app.md)     | Additional decisions on updating catalogs                                             |
