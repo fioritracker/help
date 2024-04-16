@@ -23,10 +23,3 @@ See ["The challenges of storing Fiori content records in the spreadsheet"](sprea
 
 
 
-
-
-
-
-
-
-
