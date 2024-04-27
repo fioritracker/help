@@ -1,4 +1,4 @@
-# Fiori Apps' Usage Report
+# Fiori App Usage Report
 
 {{ prod.fa.desc }}
 
