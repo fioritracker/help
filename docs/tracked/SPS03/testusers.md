@@ -8,7 +8,17 @@ However, test users face access issues like blocked access, expired passwords, a
 
 Instead of scrambling with e-mailed lists, you can rely on the Test User app. This handy app logs all our test users, centralizes management and is accessible to everyone in the QA system.
 
-
-[![](res/role-test-users.png)](res/role-test-users.png)
-
 [![](res/tu2.gif)](res/tu2.gif)
+
+You can get the test users linked through catalogs and roles to a particular app:
+
+[![](res/tu-app.png)](res/tu-app.png)
+
+Also, linked through roles to a particular catalog:
+
+[![](res/tu-cat.png)](res/tu-cat.png)
+
+Or, mapped directly to roles:
+
+[![](res/tu-rol.png)](res/tu-rol.png)
+
