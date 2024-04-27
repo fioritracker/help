@@ -17,3 +17,4 @@
 | [Transparency of app technology categories](usecases/SPS03/tech-category.md)                     | Insight into the app technology category to ensure the availability of a competent expert and plan technology improvements |
 | [Changes history](usecases/SPS03/changes-history.md) | Tracking the history of changes in the app |
 | [Automation of access grating ](usecases/SPS03/auto-prov.md) | Automated authorization provisioning based on the user requests |
+| [Centralized test users lists with passwords](usecases/SPS03/test-users.md) | Instead of scrambling with e-mailed lists, you can rely on the Test User app. This handy app logs all our test users, centralizes management and is accessible to everyone in the QA system. |
