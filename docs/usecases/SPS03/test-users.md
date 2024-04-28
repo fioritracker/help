@@ -7,3 +7,5 @@ Many projects email the test user list to project members. But users get blocke
 Instead of scrambling with e-mailed lists, you can rely on the Test User app. This handy app logs all our test users, centralizes management and is accessible to everyone in the QA system.
 
 [![](res/tu2.gif)](res/tu2.gif)
+
+See more in [Test users and their passwords](../../tracked/SPS03/testusers.md) content type description.
