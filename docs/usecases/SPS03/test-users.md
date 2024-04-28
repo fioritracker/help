@@ -1,8 +1,8 @@
 # Centralized test users lists with passwords
 
-Shared test users list: Once your custom app is ready, your SAP Fiori developer can dive in for unit testing and see exactly what the SAP Functional expert will see in his testing.
+Using shared test users is a recommended method for making the work of SAP functionals and SAP Fiori developers more efficient. Once the custom or extended app is ready, the SAP Fiori developer can unit test it by observing the same results the SAP Functional expert had. The test users have the same roles as production users will get.
 
-However, test users face access issues like blocked access, expired passwords, and frequent changes, delaying sign-offs and production releases.
+Many projects email the test user list to project members. But users get blocked, and their passwords expire and change, causing unnecessary delays in signing off and releasing changes to production.
 
 Instead of scrambling with e-mailed lists, you can rely on the Test User app. This handy app logs all our test users, centralizes management and is accessible to everyone in the QA system.
 

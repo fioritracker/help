@@ -4,7 +4,8 @@ nav:
     - User manual: user-manual.md
     - Learn more: learn-more.md
     - Installation: inst.md
-    - Support: support.md     
+    - Support: support.md  
+    - Philosophy: philosophy.md   
     - Impressum: impressum.md
 theme: 
   name: 'material'
