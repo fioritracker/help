@@ -1,12 +1,6 @@
 # Content type: Test users
 
-Fiori Tracker can keep the list of your test users with passwords. You can link Test users to roles.
-
-Shared test users list: Once your custom app is ready, your SAP Fiori developer can dive in for unit testing and see exactly what the SAP Functional expert will see in his testing.
-
-However, test users face access issues like blocked access, expired passwords, and frequent changes, delaying sign-offs and production releases.
-
-Instead of scrambling with e-mailed lists, you can rely on the Test User app. This handy app logs all our test users, centralizes management and is accessible to everyone in the QA system.
+The test users app keeps stores a list of users along with their passwords and roles associations. This makes it easy to find test users based on their roles, which are also linked to catalogs and apps. Using indirect linkage, you can quickly find all the test users for a specific app or catalog.
 
 [![](res/tu2.gif)](res/tu2.gif)
 
