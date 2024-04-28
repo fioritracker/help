@@ -18,7 +18,10 @@ Also, linked through roles to a particular catalog:
 
 [![](res/tu-cat.png)](res/tu-cat.png)
 
-Or, mapped directly to roles:
+Or, mapped directly to role:
 
 [![](res/tu-rol.png)](res/tu-rol.png)
+
+
+
 
