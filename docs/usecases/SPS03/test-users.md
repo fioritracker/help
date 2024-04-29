@@ -4,7 +4,7 @@ Using shared test users is a recommended method for making the work of SAP funct
 
 Many projects email the test user list to project members. But users get blocked, and their passwords expire and change, causing unnecessary delays in signing off and releasing changes to production.
 
-Instead of scrambling with e-mailed lists, you can rely on the Test User app. This handy app logs all our test users, centralizes management and is accessible to everyone in the QA system.
+Instead of scrambling with e-mailed lists, you can rely on the Test User app. This handy app logs all your test users, centralizes management and is accessible to everyone in the QA system.
 
 [![](res/tu2.gif)](res/tu2.gif)
 
