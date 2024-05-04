@@ -14,3 +14,4 @@ Before deciding to use Fiori Tracker suite, it's a good idea to understand the p
 
 - **Open for further development** - To capitalize on existing pool of content types. Over time we have rebuild the Fiori Tracker suite several times to make it open for adding handing additional content types and relations. Fiori Tracker Suite is also open to customer-specific extensions that will not be placed in official releases.
 
+.
