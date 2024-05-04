@@ -1,5 +1,5 @@
 site_name: Fiori Tracker
-site_url: https://help.fioritracker.org/V2020/
+site_url: https://fioritracker.org
 nav:
     - User manual: user-manual.md
     - Learn more: learn-more.md
@@ -28,7 +28,7 @@ copyright: Copyright &copy; 2016 - 2024 Nype
 extra:
   analytics:
     provider: google
-    property: G-426751662
+    property: G-3SXC9PW73K 
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/fiori-tracker/
