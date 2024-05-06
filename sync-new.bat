@@ -5,6 +5,7 @@ mkdocs build
 del /q "D:\vs\ft-htm\*"
 FOR /D %%p IN ("D:\vs\ft-htm\*.*") DO rmdir "%%p" /s /q
 xcopy site "D:\vs\ft-htm\" /h /i /c /k /e /r /y
+copy .\CNAME D:\vs\ft-htm 
 cd "D:\vs\ft-htm\"
 git add -A
 git commit -am "upd"
