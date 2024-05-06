@@ -2,11 +2,11 @@
 
 ### 1. Is it really free?
 
-Yes, it is. We are able to maintain Fiori Tracker with an income that [commercial pieces](com.md) of Fiori Tracker Suite provide.
+Yes, it is free for customers who agree to have their name published on the Fiori Tracker customer list. We are able to maintain Fiori Tracker with an income that [commercial pieces](com.md) of Fiori Tracker Suite provide.
 
 ### 2. Does Fiori Tracker send any data (statistics) to the outside servers (what is the security model)?
 
-Fiori Tracker is not sending any data to outside servers. Fiori Tracker does not need external access, and many users run it on installations that do not have external access.  All code is in ABAP, meaning that it is fully transparent and available for inspection.
+Fiori Tracker is not sending any data to outside servers. Fiori Tracker does not need external access, and many users run it on installations that do not have external access. All code is in ABAP, meaning that it is fully transparent and available for inspection.
 
 ### 3. Is Premier support mandatory after a certain time period?
 
