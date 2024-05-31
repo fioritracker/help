@@ -15,3 +15,4 @@ Before deciding to use Fiori Tracker suite, it's a good idea to understand the p
 - **Open for further development** - Since first customer implementation in 2016 we have rebuild the Fiori Tracker Suite  multiple times to accommodate new types of content and relationships. Each new relation leverages the existing pool of content types. Moreover, the suite is  open to customer-specific extensions that may not be included in official releases.
 
 .
+    
